@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+ba_4096_1_1.txt,barabasi_albert_10ins_m20,42,SpecAnn-LS,-907313.0,1.9462080001831055,False,0,0.9432729082972536,1.0,0,32,2025-11-19 15:20:45

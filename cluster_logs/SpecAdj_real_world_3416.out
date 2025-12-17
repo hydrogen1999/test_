@@ -1,0 +1,554 @@
+Running solver: SpecAdj
+Dataset: real_world
+[GENERAL] Dataset: real_world, -----------------------------------------------------------
+Running: SpecAdj
+Solver: spec_adj
+Dataset: real_world
+==================================================
+Processing instance: epinions.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -605063.0000000002
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604909.0000000001
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604981.0000000001
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604843.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604911.0000000001
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -605059.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -605057.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -605035.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604901.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -604909.0
+Results saved to: results/real_world/SpecAdj/epinions.ising.csv
+Processing instance: slashdot.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348682.0
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348706.0000000001
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348636.00000000006
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348646.00000000006
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348706.00000000006
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348686.0
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348710.00000000006
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348774.0000000001
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348736.0000000001
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -348584.0
+Results saved to: results/real_world/SpecAdj/slashdot.ising.csv
+Processing instance: wikielec.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71491.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71484.99999999999
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71495.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71495.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71495.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71491.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71493.00000000001
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71495.0
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71498.99999999999
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71502.99999999999
+Results saved to: results/real_world/SpecAdj/wikielec.ising.csv
+==================================================
+Execution Finished.
+✓ SpecAdj on real_world SUCCESS
+Completed 1 experiments in 4 seconds

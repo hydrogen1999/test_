@@ -1,0 +1,265 @@
+Running solver: SpecAnn
+Dataset: Gset
+[GENERAL] Dataset: Gset, -----------------------------------------------------------
+Running: SpecAnn
+Solver: spectral_annealing
+Dataset: Gset
+==================================================
+Processing instance: G1.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G1.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 81 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G1.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G1_alphas.csv (128 alpha values)
+Processing instance: G10.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G10.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 110 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G10.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G10_alphas.csv (128 alpha values)
+Processing instance: G11.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G11.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 8 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G11.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G11_alphas.csv (128 alpha values)
+Processing instance: G12.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G12.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 7 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G12.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G12_alphas.csv (128 alpha values)
+Processing instance: G13.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G13.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 3 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G13.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G13_alphas.csv (128 alpha values)
+Processing instance: G14.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G14.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G14.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G14_alphas.csv (128 alpha values)
+Processing instance: G15.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G15.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 123 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G15.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G15_alphas.csv (128 alpha values)
+Processing instance: G16.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G16.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 121 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G16.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G16_alphas.csv (128 alpha values)
+Processing instance: G17.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G17.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G17.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G17_alphas.csv (128 alpha values)
+Processing instance: G18.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G18.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 127 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G18.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G18_alphas.csv (128 alpha values)
+Processing instance: G19.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G19.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 127 unique solutions (out of 128 total)
+General results saved to: results/Gset/SpecAnn/G19.csv
+Alpha results saved to: results/Gset/SpecAnn/alphas/G19_alphas.csv (128 alpha values)
+Processing instance: G2.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: G2.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False

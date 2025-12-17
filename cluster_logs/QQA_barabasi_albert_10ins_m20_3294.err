@@ -1,0 +1,7 @@
+
+Lmod is automatically replacing "standard" with "anaconda".
+
+
+Inactive Modules:
+  1) cuda     2) gcc     3) java     4) matlab     5) openmpi     6) python
+

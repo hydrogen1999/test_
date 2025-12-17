@@ -1,0 +1,1265 @@
+Running solver: SpecAdj
+Dataset: Gset
+[GENERAL] Dataset: Gset, -----------------------------------------------------------
+Running: SpecAdj
+Solver: spec_adj
+Dataset: Gset
+==================================================
+Processing instance: G1.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G1.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -3354.0000000000005
+Results saved to: results/Gset/SpecAdj/G1.csv
+Processing instance: G10.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G10.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3924.0
+Results saved to: results/Gset/SpecAdj/G10.csv
+Processing instance: G11.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G11.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1002.0
+Results saved to: results/Gset/SpecAdj/G11.csv
+Processing instance: G12.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G12.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1040.0
+Results saved to: results/Gset/SpecAdj/G12.csv
+Processing instance: G13.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G13.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1046.0
+Results saved to: results/Gset/SpecAdj/G13.csv
+Processing instance: G14.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G14.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -576.0000000000001
+Results saved to: results/Gset/SpecAdj/G14.csv
+Processing instance: G15.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G15.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -438.99999999999994
+Results saved to: results/Gset/SpecAdj/G15.csv
+Processing instance: G16.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G16.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -616.0000000000001
+Results saved to: results/Gset/SpecAdj/G16.csv
+Processing instance: G17.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G17.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -319.0
+Results saved to: results/Gset/SpecAdj/G17.csv
+Processing instance: G18.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G18.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1755.9999999999998
+Results saved to: results/Gset/SpecAdj/G18.csv
+Processing instance: G19.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G19.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1726.9999999999998
+Results saved to: results/Gset/SpecAdj/G19.csv
+Processing instance: G2.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G2.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -3319.9999999999995
+Results saved to: results/Gset/SpecAdj/G2.csv
+Processing instance: G20.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G20.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1736.0
+Results saved to: results/Gset/SpecAdj/G20.csv
+Processing instance: G21.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G21.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1693.0000000000005
+Results saved to: results/Gset/SpecAdj/G21.csv
+Processing instance: G22.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G22.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6354.0
+Results saved to: results/Gset/SpecAdj/G22.csv
+Processing instance: G23.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G23.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6330.000000000001
+Results saved to: results/Gset/SpecAdj/G23.csv
+Processing instance: G24.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G24.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6332.0
+Results saved to: results/Gset/SpecAdj/G24.csv
+Processing instance: G25.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G25.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6268.0
+Results saved to: results/Gset/SpecAdj/G25.csv
+Processing instance: G26.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G26.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6224.0
+Results saved to: results/Gset/SpecAdj/G26.csv
+Processing instance: G27.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G27.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6342.0
+Results saved to: results/Gset/SpecAdj/G27.csv
+Processing instance: G28.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G28.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6386.0
+Results saved to: results/Gset/SpecAdj/G28.csv
+Processing instance: G29.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G29.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6306.0
+Results saved to: results/Gset/SpecAdj/G29.csv
+Processing instance: G3.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G3.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -3351.9999999999995
+Results saved to: results/Gset/SpecAdj/G3.csv
+Processing instance: G30.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G30.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6274.0
+Results saved to: results/Gset/SpecAdj/G30.csv
+Processing instance: G31.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G31.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6422.0
+Results saved to: results/Gset/SpecAdj/G31.csv
+Processing instance: G32.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G32.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2606.0
+Results saved to: results/Gset/SpecAdj/G32.csv
+Processing instance: G33.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G33.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2542.0
+Results saved to: results/Gset/SpecAdj/G33.csv
+Processing instance: G34.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G34.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2584.0
+Results saved to: results/Gset/SpecAdj/G34.csv
+Processing instance: G35.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G35.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -1084.0
+Results saved to: results/Gset/SpecAdj/G35.csv
+Processing instance: G36.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G36.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -287.99999999999994
+Results saved to: results/Gset/SpecAdj/G36.csv
+Processing instance: G37.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G37.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -603.0000000000001
+Results saved to: results/Gset/SpecAdj/G37.csv
+Processing instance: G38.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G38.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -399.0
+Results saved to: results/Gset/SpecAdj/G38.csv
+Processing instance: G39.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G39.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4318.000000000001
+Results saved to: results/Gset/SpecAdj/G39.csv
+Processing instance: G4.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G4.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -3403.9999999999995
+Results saved to: results/Gset/SpecAdj/G4.csv
+Processing instance: G40.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G40.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4378.000000000001
+Results saved to: results/Gset/SpecAdj/G40.csv
+Processing instance: G41.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G41.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4293.0
+Results saved to: results/Gset/SpecAdj/G41.csv
+Processing instance: G42.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G42.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4209.0
+Results saved to: results/Gset/SpecAdj/G42.csv
+Processing instance: G43.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G43.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3134.0
+Results saved to: results/Gset/SpecAdj/G43.csv
+Processing instance: G44.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G44.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3118.0000000000005
+Results saved to: results/Gset/SpecAdj/G44.csv
+Processing instance: G45.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G45.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3159.9999999999995
+Results saved to: results/Gset/SpecAdj/G45.csv
+Processing instance: G46.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G46.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3102.0
+Results saved to: results/Gset/SpecAdj/G46.csv
+Processing instance: G47.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G47.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3215.9999999999995
+Results saved to: results/Gset/SpecAdj/G47.csv
+Processing instance: G48.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G48.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -6000.0
+Results saved to: results/Gset/SpecAdj/G48.csv
+Processing instance: G49.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G49.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -6000.0
+Results saved to: results/Gset/SpecAdj/G49.csv
+Processing instance: G5.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G5.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -3475.9999999999995
+Results saved to: results/Gset/SpecAdj/G5.csv
+Processing instance: G50.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G50.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -5760.0
+Results saved to: results/Gset/SpecAdj/G50.csv
+Processing instance: G51.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G51.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -637.0
+Results saved to: results/Gset/SpecAdj/G51.csv
+Processing instance: G52.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G52.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -449.9999999999999
+Results saved to: results/Gset/SpecAdj/G52.csv
+Processing instance: G53.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G53.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -810.0
+Results saved to: results/Gset/SpecAdj/G53.csv
+Processing instance: G54.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G54.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -676.0
+Results saved to: results/Gset/SpecAdj/G54.csv
+Processing instance: G57.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G57.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -6206.0
+Results saved to: results/Gset/SpecAdj/G57.csv
+Processing instance: G58.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G58.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to 502.00000000000006
+Results saved to: results/Gset/SpecAdj/G58.csv
+Processing instance: G59.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G59.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -10806.0
+Results saved to: results/Gset/SpecAdj/G59.csv
+Processing instance: G6.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G6.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4122.0
+Results saved to: results/Gset/SpecAdj/G6.csv
+Processing instance: G62.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G62.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -8744.0
+Results saved to: results/Gset/SpecAdj/G62.csv
+Processing instance: G63.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G63.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search did not improve energy to -1081.0000000000002
+Results saved to: results/Gset/SpecAdj/G63.csv
+Processing instance: G64.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G64.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -15277.0
+Results saved to: results/Gset/SpecAdj/G64.csv
+Processing instance: G65.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G65.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -9962.0
+Results saved to: results/Gset/SpecAdj/G65.csv
+Processing instance: G66.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G66.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -11100.0
+Results saved to: results/Gset/SpecAdj/G66.csv
+Processing instance: G67.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G67.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -12238.0
+Results saved to: results/Gset/SpecAdj/G67.csv
+Processing instance: G7.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G7.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3924.0000000000005
+Results saved to: results/Gset/SpecAdj/G7.csv
+Processing instance: G72.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G72.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -12450.0
+Results saved to: results/Gset/SpecAdj/G72.csv
+Processing instance: G77.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G77.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -17184.0
+Results saved to: results/Gset/SpecAdj/G77.csv
+Processing instance: G8.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G8.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -3960.0
+Results saved to: results/Gset/SpecAdj/G8.csv
+Processing instance: G81.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G81.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -24518.0
+Results saved to: results/Gset/SpecAdj/G81.csv
+Processing instance: G9.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: G9.txt
+  dataset: Gset
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -4095.9999999999995
+Results saved to: results/Gset/SpecAdj/G9.csv
+==================================================
+Execution Finished.
+✓ SpecAdj on Gset SUCCESS
+Completed 1 experiments in 11 seconds

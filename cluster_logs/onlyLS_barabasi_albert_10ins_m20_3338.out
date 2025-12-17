@@ -1,0 +1,2861 @@
+Running solver: onlyLS
+Dataset: barabasi_albert_10ins_m20
+[GENERAL] Dataset: barabasi_albert_10ins_m20, -----------------------------------------------------------
+Running: onlyLS
+Solver: onlyLS
+Dataset: barabasi_albert_10ins_m20
+==================================================
+Processing instance: ba_1024_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_0.csv
+Best energy: -259675.000000
+Total time: 0.5040s
+Local search iterations: 64
+----------------------------------------
+Processing instance: ba_1024_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_1.csv
+Best energy: -259208.000000
+Total time: 0.1116s
+Local search iterations: 86
+----------------------------------------
+Processing instance: ba_1024_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_2.csv
+Best energy: -260547.000000
+Total time: 0.1713s
+Local search iterations: 69
+----------------------------------------
+Processing instance: ba_1024_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_3.csv
+Best energy: -261197.000000
+Total time: 0.1086s
+Local search iterations: 75
+----------------------------------------
+Processing instance: ba_1024_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_4.csv
+Best energy: -261604.000000
+Total time: 0.1076s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_1024_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_5.csv
+Best energy: -263016.000000
+Total time: 0.1065s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_1024_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_6.csv
+Best energy: -259595.000000
+Total time: 0.1198s
+Local search iterations: 94
+----------------------------------------
+Processing instance: ba_1024_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_7.csv
+Best energy: -258082.000000
+Total time: 0.1090s
+Local search iterations: 81
+----------------------------------------
+Processing instance: ba_1024_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_8.csv
+Best energy: -265864.000000
+Total time: 0.1090s
+Local search iterations: 76
+----------------------------------------
+Processing instance: ba_1024_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1024_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1024_1_9.csv
+Best energy: -261276.000000
+Total time: 0.1083s
+Local search iterations: 77
+----------------------------------------
+Processing instance: ba_1048576_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_0.csv
+Best energy: -246792272.000000
+Total time: 7.5742s
+Local search iterations: 49
+----------------------------------------
+Processing instance: ba_1048576_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_1.csv
+Best energy: -246771103.000000
+Total time: 7.2889s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_1048576_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_2.csv
+Best energy: -246769648.000000
+Total time: 7.1773s
+Local search iterations: 47
+----------------------------------------
+Processing instance: ba_1048576_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_3.csv
+Best energy: -246583307.000000
+Total time: 7.3073s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_1048576_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_4.csv
+Best energy: -246745728.000000
+Total time: 7.6711s
+Local search iterations: 52
+----------------------------------------
+Processing instance: ba_1048576_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_5.csv
+Best energy: -246648712.000000
+Total time: 7.4407s
+Local search iterations: 50
+----------------------------------------
+Processing instance: ba_1048576_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_6.csv
+Best energy: -246700119.000000
+Total time: 7.7547s
+Local search iterations: 53
+----------------------------------------
+Processing instance: ba_1048576_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_7.csv
+Best energy: -246688974.000000
+Total time: 7.3190s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_1048576_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_8.csv
+Best energy: -246713641.000000
+Total time: 7.2444s
+Local search iterations: 47
+----------------------------------------
+Processing instance: ba_1048576_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_1048576_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_1048576_1_9.csv
+Best energy: -246694327.000000
+Total time: 7.3419s
+Local search iterations: 47
+----------------------------------------
+Processing instance: ba_128_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_0.csv
+Best energy: -30477.000000
+Total time: 0.1041s
+Local search iterations: 68
+----------------------------------------
+Processing instance: ba_128_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_1.csv
+Best energy: -31588.000000
+Total time: 0.0988s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_128_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_2.csv
+Best energy: -30978.000000
+Total time: 0.1042s
+Local search iterations: 90
+----------------------------------------
+Processing instance: ba_128_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_3.csv
+Best energy: -31797.000000
+Total time: 0.0981s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_128_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_4.csv
+Best energy: -32171.000000
+Total time: 0.1004s
+Local search iterations: 77
+----------------------------------------
+Processing instance: ba_128_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_5.csv
+Best energy: -31215.000000
+Total time: 0.1011s
+Local search iterations: 80
+----------------------------------------
+Processing instance: ba_128_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_6.csv
+Best energy: -31686.000000
+Total time: 0.1054s
+Local search iterations: 98
+----------------------------------------
+Processing instance: ba_128_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_7.csv
+Best energy: -31934.000000
+Total time: 0.1547s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_128_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_8.csv
+Best energy: -32451.000000
+Total time: 0.1081s
+Local search iterations: 107
+----------------------------------------
+Processing instance: ba_128_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_128_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_128_1_9.csv
+Best energy: -31918.000000
+Total time: 0.0981s
+Local search iterations: 66
+----------------------------------------
+Processing instance: ba_131072_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_0.csv
+Best energy: -31199774.000000
+Total time: 0.8688s
+Local search iterations: 42
+----------------------------------------
+Processing instance: ba_131072_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_1.csv
+Best energy: -31119787.000000
+Total time: 0.8553s
+Local search iterations: 42
+----------------------------------------
+Processing instance: ba_131072_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_2.csv
+Best energy: -31177284.000000
+Total time: 0.8458s
+Local search iterations: 43
+----------------------------------------
+Processing instance: ba_131072_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_3.csv
+Best energy: -31147552.000000
+Total time: 0.8381s
+Local search iterations: 42
+----------------------------------------
+Processing instance: ba_131072_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_4.csv
+Best energy: -31157156.000000
+Total time: 0.8712s
+Local search iterations: 45
+----------------------------------------
+Processing instance: ba_131072_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_5.csv
+Best energy: -31203320.000000
+Total time: 0.8072s
+Local search iterations: 39
+----------------------------------------
+Processing instance: ba_131072_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_6.csv
+Best energy: -31137335.000000
+Total time: 0.8974s
+Local search iterations: 49
+----------------------------------------
+Processing instance: ba_131072_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_7.csv
+Best energy: -31175732.000000
+Total time: 0.8927s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_131072_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_8.csv
+Best energy: -31160507.000000
+Total time: 0.8204s
+Local search iterations: 40
+----------------------------------------
+Processing instance: ba_131072_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_131072_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_131072_1_9.csv
+Best energy: -31212515.000000
+Total time: 0.8920s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_16384_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_0.csv
+Best energy: -4065564.000000
+Total time: 0.1676s
+Local search iterations: 71
+----------------------------------------
+Processing instance: ba_16384_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_1.csv
+Best energy: -4051590.000000
+Total time: 0.1607s
+Local search iterations: 66
+----------------------------------------
+Processing instance: ba_16384_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_2.csv
+Best energy: -4036664.000000
+Total time: 0.1637s
+Local search iterations: 71
+----------------------------------------
+Processing instance: ba_16384_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_3.csv
+Best energy: -4053474.000000
+Total time: 0.2468s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_16384_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_4.csv
+Best energy: -4042953.000000
+Total time: 0.1676s
+Local search iterations: 77
+----------------------------------------
+Processing instance: ba_16384_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_5.csv
+Best energy: -4048734.000000
+Total time: 0.1593s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_16384_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_6.csv
+Best energy: -4067498.000000
+Total time: 0.1637s
+Local search iterations: 71
+----------------------------------------
+Processing instance: ba_16384_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_7.csv
+Best energy: -4052024.000000
+Total time: 0.1596s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_16384_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_8.csv
+Best energy: -4054956.000000
+Total time: 0.1597s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_16384_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_16384_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_16384_1_9.csv
+Best energy: -4049620.000000
+Total time: 0.1898s
+Local search iterations: 71
+----------------------------------------
+Processing instance: ba_2048_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_0.csv
+Best energy: -516593.000000
+Total time: 0.1060s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_2048_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_1.csv
+Best energy: -518087.000000
+Total time: 0.1052s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_2048_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_2.csv
+Best energy: -512597.000000
+Total time: 0.1073s
+Local search iterations: 75
+----------------------------------------
+Processing instance: ba_2048_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_3.csv
+Best energy: -513075.000000
+Total time: 0.1052s
+Local search iterations: 68
+----------------------------------------
+Processing instance: ba_2048_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_4.csv
+Best energy: -516490.000000
+Total time: 0.1040s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_2048_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_5.csv
+Best energy: -519220.000000
+Total time: 0.1082s
+Local search iterations: 78
+----------------------------------------
+Processing instance: ba_2048_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_6.csv
+Best energy: -514734.000000
+Total time: 0.1086s
+Local search iterations: 84
+----------------------------------------
+Processing instance: ba_2048_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_7.csv
+Best energy: -513291.000000
+Total time: 0.1040s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_2048_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_8.csv
+Best energy: -518612.000000
+Total time: 0.1053s
+Local search iterations: 68
+----------------------------------------
+Processing instance: ba_2048_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_2048_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_2048_1_9.csv
+Best energy: -515869.000000
+Total time: 0.1066s
+Local search iterations: 74
+----------------------------------------
+Processing instance: ba_256_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_0.csv
+Best energy: -65526.000000
+Total time: 0.1084s
+Local search iterations: 87
+----------------------------------------
+Processing instance: ba_256_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_1.csv
+Best energy: -67384.000000
+Total time: 0.1110s
+Local search iterations: 102
+----------------------------------------
+Processing instance: ba_256_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_2.csv
+Best energy: -64613.000000
+Total time: 0.1621s
+Local search iterations: 69
+----------------------------------------
+Processing instance: ba_256_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_3.csv
+Best energy: -66961.000000
+Total time: 0.1041s
+Local search iterations: 74
+----------------------------------------
+Processing instance: ba_256_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_4.csv
+Best energy: -65681.000000
+Total time: 0.1077s
+Local search iterations: 88
+----------------------------------------
+Processing instance: ba_256_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_5.csv
+Best energy: -65718.000000
+Total time: 0.1100s
+Local search iterations: 98
+----------------------------------------
+Processing instance: ba_256_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_6.csv
+Best energy: -65083.000000
+Total time: 0.1024s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_256_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_7.csv
+Best energy: -64882.000000
+Total time: 0.1081s
+Local search iterations: 87
+----------------------------------------
+Processing instance: ba_256_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_8.csv
+Best energy: -66079.000000
+Total time: 0.1644s
+Local search iterations: 78
+----------------------------------------
+Processing instance: ba_256_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_256_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_256_1_9.csv
+Best energy: -65399.000000
+Total time: 0.1031s
+Local search iterations: 74
+----------------------------------------
+Processing instance: ba_262144_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_0.csv
+Best energy: -61859085.000000
+Total time: 1.7745s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_262144_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_1.csv
+Best energy: -61911433.000000
+Total time: 1.6537s
+Local search iterations: 39
+----------------------------------------
+Processing instance: ba_262144_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_2.csv
+Best energy: -61853126.000000
+Total time: 1.8129s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_262144_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_3.csv
+Best energy: -61822165.000000
+Total time: 1.7251s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_262144_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_4.csv
+Best energy: -61871395.000000
+Total time: 1.7169s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_262144_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_5.csv
+Best energy: -61757612.000000
+Total time: 1.7264s
+Local search iterations: 45
+----------------------------------------
+Processing instance: ba_262144_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_6.csv
+Best energy: -61759719.000000
+Total time: 1.6948s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_262144_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_7.csv
+Best energy: -61844962.000000
+Total time: 1.6791s
+Local search iterations: 41
+----------------------------------------
+Processing instance: ba_262144_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_8.csv
+Best energy: -61828413.000000
+Total time: 1.7488s
+Local search iterations: 45
+----------------------------------------
+Processing instance: ba_262144_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_262144_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_262144_1_9.csv
+Best energy: -61821086.000000
+Total time: 1.6868s
+Local search iterations: 43
+----------------------------------------
+Processing instance: ba_32768_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_0.csv
+Best energy: -8045847.000000
+Total time: 0.2364s
+Local search iterations: 75
+----------------------------------------
+Processing instance: ba_32768_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_1.csv
+Best energy: -8062787.000000
+Total time: 0.2203s
+Local search iterations: 66
+----------------------------------------
+Processing instance: ba_32768_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_2.csv
+Best energy: -8063301.000000
+Total time: 0.2516s
+Local search iterations: 90
+----------------------------------------
+Processing instance: ba_32768_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_3.csv
+Best energy: -8087538.000000
+Total time: 0.2221s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_32768_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_4.csv
+Best energy: -8060950.000000
+Total time: 0.2337s
+Local search iterations: 76
+----------------------------------------
+Processing instance: ba_32768_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_5.csv
+Best energy: -8061994.000000
+Total time: 0.2162s
+Local search iterations: 63
+----------------------------------------
+Processing instance: ba_32768_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_6.csv
+Best energy: -8067666.000000
+Total time: 0.2140s
+Local search iterations: 61
+----------------------------------------
+Processing instance: ba_32768_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_7.csv
+Best energy: -8059237.000000
+Total time: 0.2172s
+Local search iterations: 64
+----------------------------------------
+Processing instance: ba_32768_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_8.csv
+Best energy: -8076055.000000
+Total time: 0.2207s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_32768_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_32768_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_32768_1_9.csv
+Best energy: -8084290.000000
+Total time: 0.2117s
+Local search iterations: 60
+----------------------------------------
+Processing instance: ba_4096_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_0.csv
+Best energy: -1030572.000000
+Total time: 0.1156s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_4096_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_1.csv
+Best energy: -1022063.000000
+Total time: 0.1163s
+Local search iterations: 73
+----------------------------------------
+Processing instance: ba_4096_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_2.csv
+Best energy: -1020332.000000
+Total time: 0.1142s
+Local search iterations: 68
+----------------------------------------
+Processing instance: ba_4096_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_3.csv
+Best energy: -1022312.000000
+Total time: 0.1141s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_4096_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_4.csv
+Best energy: -1014140.000000
+Total time: 0.1140s
+Local search iterations: 65
+----------------------------------------
+Processing instance: ba_4096_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_5.csv
+Best energy: -1017772.000000
+Total time: 0.1154s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_4096_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_6.csv
+Best energy: -1018185.000000
+Total time: 0.1170s
+Local search iterations: 76
+----------------------------------------
+Processing instance: ba_4096_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_7.csv
+Best energy: -1016136.000000
+Total time: 0.1274s
+Local search iterations: 59
+----------------------------------------
+Processing instance: ba_4096_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_8.csv
+Best energy: -1027454.000000
+Total time: 0.1397s
+Local search iterations: 80
+----------------------------------------
+Processing instance: ba_4096_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_4096_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_4096_1_9.csv
+Best energy: -1020448.000000
+Total time: 0.1441s
+Local search iterations: 89
+----------------------------------------
+Processing instance: ba_512_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_0.csv
+Best energy: -132348.000000
+Total time: 0.1158s
+Local search iterations: 86
+----------------------------------------
+Processing instance: ba_512_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_1.csv
+Best energy: -131272.000000
+Total time: 0.1081s
+Local search iterations: 80
+----------------------------------------
+Processing instance: ba_512_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_2.csv
+Best energy: -133042.000000
+Total time: 0.1552s
+Local search iterations: 80
+----------------------------------------
+Processing instance: ba_512_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_3.csv
+Best energy: -133686.000000
+Total time: 0.1124s
+Local search iterations: 93
+----------------------------------------
+Processing instance: ba_512_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_4.csv
+Best energy: -132232.000000
+Total time: 0.1109s
+Local search iterations: 87
+----------------------------------------
+Processing instance: ba_512_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_5.csv
+Best energy: -134774.000000
+Total time: 0.1108s
+Local search iterations: 88
+----------------------------------------
+Processing instance: ba_512_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_6.csv
+Best energy: -130585.000000
+Total time: 0.1063s
+Local search iterations: 73
+----------------------------------------
+Processing instance: ba_512_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_7.csv
+Best energy: -130278.000000
+Total time: 0.1177s
+Local search iterations: 112
+----------------------------------------
+Processing instance: ba_512_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_8.csv
+Best energy: -133209.000000
+Total time: 0.1121s
+Local search iterations: 94
+----------------------------------------
+Processing instance: ba_512_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_512_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_512_1_9.csv
+Best energy: -131274.000000
+Total time: 0.1092s
+Local search iterations: 82
+----------------------------------------
+Processing instance: ba_524288_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_0.csv
+Best energy: -123403748.000000
+Total time: 3.5119s
+Local search iterations: 43
+----------------------------------------
+Processing instance: ba_524288_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_1.csv
+Best energy: -123530262.000000
+Total time: 3.5117s
+Local search iterations: 45
+----------------------------------------
+Processing instance: ba_524288_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_2.csv
+Best energy: -123401500.000000
+Total time: 3.2707s
+Local search iterations: 40
+----------------------------------------
+Processing instance: ba_524288_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_3.csv
+Best energy: -123399437.000000
+Total time: 3.4309s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_524288_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_4.csv
+Best energy: -123389995.000000
+Total time: 3.6683s
+Local search iterations: 49
+----------------------------------------
+Processing instance: ba_524288_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_5.csv
+Best energy: -123453227.000000
+Total time: 3.9524s
+Local search iterations: 56
+----------------------------------------
+Processing instance: ba_524288_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_6.csv
+Best energy: -123415981.000000
+Total time: 3.6190s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_524288_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_7.csv
+Best energy: -123399289.000000
+Total time: 3.9336s
+Local search iterations: 56
+----------------------------------------
+Processing instance: ba_524288_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_8.csv
+Best energy: -123441598.000000
+Total time: 3.6211s
+Local search iterations: 48
+----------------------------------------
+Processing instance: ba_524288_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_524288_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_524288_1_9.csv
+Best energy: -123404591.000000
+Total time: 3.4465s
+Local search iterations: 44
+----------------------------------------
+Processing instance: ba_64_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_0.csv
+Best energy: -13882.000000
+Total time: 0.1447s
+Local search iterations: 223
+----------------------------------------
+Processing instance: ba_64_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_1.csv
+Best energy: -13775.000000
+Total time: 0.1025s
+Local search iterations: 87
+----------------------------------------
+Processing instance: ba_64_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_2.csv
+Best energy: -14803.000000
+Total time: 0.1008s
+Local search iterations: 79
+----------------------------------------
+Processing instance: ba_64_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_3.csv
+Best energy: -14190.000000
+Total time: 0.0986s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_64_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_4.csv
+Best energy: -14545.000000
+Total time: 0.0993s
+Local search iterations: 74
+----------------------------------------
+Processing instance: ba_64_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_5.csv
+Best energy: -15304.000000
+Total time: 0.0955s
+Local search iterations: 59
+----------------------------------------
+Processing instance: ba_64_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_6.csv
+Best energy: -14296.000000
+Total time: 0.1031s
+Local search iterations: 89
+----------------------------------------
+Processing instance: ba_64_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_7.csv
+Best energy: -14578.000000
+Total time: 0.0987s
+Local search iterations: 72
+----------------------------------------
+Processing instance: ba_64_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_8.csv
+Best energy: -14385.000000
+Total time: 0.1350s
+Local search iterations: 71
+----------------------------------------
+Processing instance: ba_64_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_64_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_64_1_9.csv
+Best energy: -14011.000000
+Total time: 0.0978s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_65536_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_0.csv
+Best energy: -16053445.000000
+Total time: 0.4817s
+Local search iterations: 53
+----------------------------------------
+Processing instance: ba_65536_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_1.csv
+Best energy: -16017981.000000
+Total time: 0.4814s
+Local search iterations: 56
+----------------------------------------
+Processing instance: ba_65536_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_2.csv
+Best energy: -16047446.000000
+Total time: 0.5206s
+Local search iterations: 76
+----------------------------------------
+Processing instance: ba_65536_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_3.csv
+Best energy: -16063396.000000
+Total time: 0.4966s
+Local search iterations: 67
+----------------------------------------
+Processing instance: ba_65536_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_4.csv
+Best energy: -16022602.000000
+Total time: 0.4932s
+Local search iterations: 63
+----------------------------------------
+Processing instance: ba_65536_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_5.csv
+Best energy: -16036567.000000
+Total time: 0.4686s
+Local search iterations: 63
+----------------------------------------
+Processing instance: ba_65536_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_6.csv
+Best energy: -16032380.000000
+Total time: 0.5034s
+Local search iterations: 70
+----------------------------------------
+Processing instance: ba_65536_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_7.csv
+Best energy: -16041600.000000
+Total time: 0.4484s
+Local search iterations: 55
+----------------------------------------
+Processing instance: ba_65536_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_8.csv
+Best energy: -16045052.000000
+Total time: 0.4784s
+Local search iterations: 56
+----------------------------------------
+Processing instance: ba_65536_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_65536_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_65536_1_9.csv
+Best energy: -16003473.000000
+Total time: 0.4784s
+Local search iterations: 58
+----------------------------------------
+Processing instance: ba_8192_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_0.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_0.csv
+Best energy: -2026861.000000
+Total time: 0.1313s
+Local search iterations: 61
+----------------------------------------
+Processing instance: ba_8192_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_1.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_1.csv
+Best energy: -2032897.000000
+Total time: 0.1326s
+Local search iterations: 64
+----------------------------------------
+Processing instance: ba_8192_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_2.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_2.csv
+Best energy: -2025482.000000
+Total time: 0.1308s
+Local search iterations: 62
+----------------------------------------
+Processing instance: ba_8192_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_3.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_3.csv
+Best energy: -2040391.000000
+Total time: 0.1294s
+Local search iterations: 60
+----------------------------------------
+Processing instance: ba_8192_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_4.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_4.csv
+Best energy: -2026992.000000
+Total time: 0.1591s
+Local search iterations: 75
+----------------------------------------
+Processing instance: ba_8192_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_5.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_5.csv
+Best energy: -2023723.000000
+Total time: 0.1477s
+Local search iterations: 61
+----------------------------------------
+Processing instance: ba_8192_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_6.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_6.csv
+Best energy: -2031126.000000
+Total time: 0.1478s
+Local search iterations: 61
+----------------------------------------
+Processing instance: ba_8192_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_7.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_7.csv
+Best energy: -2027259.000000
+Total time: 0.1477s
+Local search iterations: 60
+----------------------------------------
+Processing instance: ba_8192_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_8.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_8.csv
+Best energy: -2032208.000000
+Total time: 0.1481s
+Local search iterations: 62
+----------------------------------------
+Processing instance: ba_8192_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized onlyLS solver (GPU local search only). Results will be saved under 'onlyLS'.
+Parameters:
+  instance_name: ba_8192_1_9.txt
+  dataset: barabasi_albert_10ins_m20
+  random_seed: 42
+  n_random_solutions: 128
+  max_local_iterations: 1000
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: onlyLS
+--------------------------------------------------
+Generating 128 random solutions...
+Applying local search to 128 solutions...
+Results saved to: results/barabasi_albert_10ins_m20/onlyLS/ba_8192_1_9.csv
+Best energy: -2029166.000000
+Total time: 0.1613s
+Local search iterations: 63
+----------------------------------------
+==================================================
+Execution Finished.
+✓ onlyLS on barabasi_albert_10ins_m20 SUCCESS
+Completed 1 experiments in 911 seconds

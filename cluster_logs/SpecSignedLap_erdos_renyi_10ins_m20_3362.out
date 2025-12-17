@@ -1,0 +1,1894 @@
+Running solver: SpecSignedLap
+Dataset: erdos_renyi_10ins_m20
+[GENERAL] Dataset: erdos_renyi_10ins_m20, -----------------------------------------------------------
+Running: SpecSignedLap
+Solver: spec_signed_lap
+Dataset: erdos_renyi_10ins_m20
+==================================================
+Processing instance: er_1024_1_0.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276095.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -276096.000000, Time: 0.3108s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277620.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -277620.000000, Time: 0.0491s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277745.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -277746.000000, Time: 0.0463s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276016.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -276016.000000, Time: 0.0440s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277511.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -277512.000000, Time: 0.0519s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276224.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -276224.000000, Time: 0.0458s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274905.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -274906.000000, Time: 0.0348s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275210.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -275210.000000, Time: 0.0437s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276746.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -276746.000000, Time: 0.0415s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_0.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275309.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_0.csv
+Alpha1 solver completed. Energy: -275310.000000, Time: 0.0402s
+Processing instance: er_1024_1_1.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278722.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -278723.000000, Time: 0.0424s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276127.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -276127.000000, Time: 0.0431s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275337.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -275337.000000, Time: 0.0529s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276662.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -276663.000000, Time: 0.0362s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277759.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -277759.000000, Time: 0.0376s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275064.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -275065.000000, Time: 0.0377s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278123.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -278123.000000, Time: 0.0369s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273527.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -273527.000000, Time: 0.0432s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279598.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -279599.000000, Time: 0.0390s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_1.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276818.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_1.csv
+Alpha1 solver completed. Energy: -276819.000000, Time: 0.0394s
+Processing instance: er_1024_1_2.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274753.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -274753.000000, Time: 0.0454s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274335.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -274335.000000, Time: 0.0423s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276847.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -276847.000000, Time: 0.0380s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276382.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -276383.000000, Time: 0.0480s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274773.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -274773.000000, Time: 0.0486s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273441.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -273441.000000, Time: 0.0392s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273347.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -273347.000000, Time: 0.0405s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276119.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -276119.000000, Time: 0.0417s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276067.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -276067.000000, Time: 0.0449s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_2.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -271807.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_2.csv
+Alpha1 solver completed. Energy: -271807.000000, Time: 0.0403s
+Processing instance: er_1024_1_3.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279866.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -279866.000000, Time: 0.0368s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278114.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -278114.000000, Time: 0.0373s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279548.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -279548.000000, Time: 0.0371s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -280644.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -280644.000000, Time: 0.0396s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275134.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -275134.000000, Time: 0.0393s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279500.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -279500.000000, Time: 0.0357s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278386.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -278386.000000, Time: 0.0383s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277254.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -277254.000000, Time: 0.0390s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279687.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -279688.000000, Time: 0.0366s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_3.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -279908.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_3.csv
+Alpha1 solver completed. Energy: -279908.000000, Time: 0.0443s
+Processing instance: er_1024_1_4.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274058.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -274058.000000, Time: 0.0375s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277298.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -277298.000000, Time: 0.0375s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277804.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -277804.000000, Time: 0.0378s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275112.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -275112.000000, Time: 0.0391s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274606.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -274606.000000, Time: 0.0363s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276188.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -276188.000000, Time: 0.0415s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277216.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -277216.000000, Time: 0.0351s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274250.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -274250.000000, Time: 0.0371s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274698.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -274698.000000, Time: 0.0342s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_4.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275874.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_4.csv
+Alpha1 solver completed. Energy: -275874.000000, Time: 0.0399s
+Processing instance: er_1024_1_5.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273696.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -273696.000000, Time: 0.0375s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273824.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -273824.000000, Time: 0.0421s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274508.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -274508.000000, Time: 0.0366s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274405.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -274406.000000, Time: 0.0362s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275204.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -275204.000000, Time: 0.0358s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273562.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -273562.000000, Time: 0.0393s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273404.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -273404.000000, Time: 0.0437s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274028.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -274028.000000, Time: 0.0394s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274436.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -274436.000000, Time: 0.0435s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_5.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274218.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_5.csv
+Alpha1 solver completed. Energy: -274218.000000, Time: 0.0405s
+Processing instance: er_1024_1_6.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276900.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -276900.000000, Time: 0.0366s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275691.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -275692.000000, Time: 0.0381s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275372.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -275372.000000, Time: 0.0340s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273906.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -273906.000000, Time: 0.0370s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275721.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -275722.000000, Time: 0.0356s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274826.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -274826.000000, Time: 0.0385s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276203.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -276204.000000, Time: 0.0387s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278357.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -278358.000000, Time: 0.0338s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -271922.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -271922.000000, Time: 0.0355s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_6.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273654.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_6.csv
+Alpha1 solver completed. Energy: -273654.000000, Time: 0.0356s
+Processing instance: er_1024_1_7.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275705.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -275705.000000, Time: 0.0377s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274881.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -274881.000000, Time: 0.0388s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275521.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -275521.000000, Time: 0.0417s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275863.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -275863.000000, Time: 0.0405s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274541.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -274541.000000, Time: 0.0355s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276461.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -276461.000000, Time: 0.0386s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -274971.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -274971.000000, Time: 0.0366s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277557.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -277557.000000, Time: 0.0389s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276081.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -276081.000000, Time: 0.0364s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_7.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277811.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_7.csv
+Alpha1 solver completed. Energy: -277811.000000, Time: 0.0412s
+Processing instance: er_1024_1_8.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -278322.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -278322.000000, Time: 0.0345s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276992.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -276992.000000, Time: 0.0349s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276458.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -276458.000000, Time: 0.0321s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275512.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -275512.000000, Time: 0.0398s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277018.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -277018.000000, Time: 0.0354s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -277468.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -277468.000000, Time: 0.0431s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275462.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -275462.000000, Time: 0.0382s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276764.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -276764.000000, Time: 0.0328s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276924.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -276924.000000, Time: 0.0348s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_8.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276342.00000000006
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_8.csv
+Alpha1 solver completed. Energy: -276342.000000, Time: 0.0409s
+Processing instance: er_1024_1_9.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273926.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -273926.000000, Time: 0.0439s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -272729.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -272730.000000, Time: 0.0353s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275847.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -275848.000000, Time: 0.0335s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -273916.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -273916.000000, Time: 0.0400s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275347.99999999994
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -275348.000000, Time: 0.0373s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -276356.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -276356.000000, Time: 0.0502s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -275092.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -275092.000000, Time: 0.0397s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -269944.0
+Results saved to: results/erdos_renyi_10ins_m20/SpecSignedLap/er_1024_1_9.csv
+Alpha1 solver completed. Energy: -269944.000000, Time: 0.0370s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_1024_1_9.txt
+  dataset: erdos_renyi_10ins_m20
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------

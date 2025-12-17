@@ -1,0 +1,28 @@
+Running solver: SB_50
+Dataset: barabasi_albert_selective
+[GENERAL] Dataset: barabasi_albert_selective, -----------------------------------------------------------
+Running: SB_50
+Solver: SB
+Dataset: barabasi_albert_selective
+==================================================
+Processing instance: ba_1024_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized SB solver with 50 agents on CUDA (float64). Results will be saved under 'SB_50'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 42
+  device: cuda
+  use_local_search: False
+  run_name: SB_50
+  agents: 50
+--------------------------------------------------
+Results saved to: results/barabasi_albert_selective/SB_50/ba_1024_1_0.csv
+Energy (computed): -272277.000000
+Energy (SB): -272277.000000
+Time: 1.0729s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SB_50 on barabasi_albert_selective SUCCESS
+Completed 1 experiments in 3 seconds

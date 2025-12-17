@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,n_random_solutions,max_local_iterations,precision,timestamp
+ba_128_1_8.txt,barabasi_albert_10ins_m20,42,onlyLS,-32395.0,0.1044597625732421,True,67,128,1000,32,2025-11-19 20:57:41
+ba_128_1_8.txt,barabasi_albert_10ins_m20,43,onlyLS,-32443.0,0.1135151386260986,True,99,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,44,onlyLS,-32443.0,0.1146755218505859,True,96,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,45,onlyLS,-32197.0,0.1146807670593261,True,96,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,46,onlyLS,-32317.0,0.1121125221252441,True,88,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,47,onlyLS,-32443.0,0.1216757297515869,True,126,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,48,onlyLS,-32395.0,0.1070988178253173,True,78,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,49,onlyLS,-32395.0,0.1153337955474853,True,105,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,50,onlyLS,-32293.0,0.1113302707672119,True,92,128,1000,32,2025-11-19 20:57:42
+ba_128_1_8.txt,barabasi_albert_10ins_m20,51,onlyLS,-32317.0,0.11589598655700684,True,106,128,1000,32,2025-11-19 20:57:42

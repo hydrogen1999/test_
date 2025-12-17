@@ -1,0 +1,4163 @@
+Running solver: SpecSignedLap
+Dataset: erdos_renyi
+[GENERAL] Dataset: erdos_renyi, -----------------------------------------------------------
+Running: SpecSignedLap
+Solver: spec_signed_lap
+Dataset: erdos_renyi
+==================================================
+Processing instance: er_2097152_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_6.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_6.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_7.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_7.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_8.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_8.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_2097152_1_9.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_2097152_1_9.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_0.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_1.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_2.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_3.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_4.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_5.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_6.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_6.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_7.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_7.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_8.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_8.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_4194304_1_9.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 42: too many values to unpack (expected 2)
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 43: too many values to unpack (expected 2)
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 44: too many values to unpack (expected 2)
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 45: too many values to unpack (expected 2)
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 46: too many values to unpack (expected 2)
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 47: too many values to unpack (expected 2)
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 48: too many values to unpack (expected 2)
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 49: too many values to unpack (expected 2)
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 50: too many values to unpack (expected 2)
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_4194304_1_9.bin.gz with seed 51: too many values to unpack (expected 2)
+Processing instance: er_8388608_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 42: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 43: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 44: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 45: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 46: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 47: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 48: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 49: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 50: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_0.bin.gz with seed 51: Out of memory allocating 11,608,785,920 bytes (allocated so far: 35,537,384,960 bytes).
+Processing instance: er_8388608_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 42: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 43: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 44: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 45: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 46: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 47: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 48: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 49: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 50: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_1.bin.gz with seed 51: Out of memory allocating 11,608,007,168 bytes (allocated so far: 35,537,384,960 bytes).
+Processing instance: er_8388608_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 42: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 43: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 44: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 45: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 46: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 47: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 48: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 49: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 50: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_2.bin.gz with seed 51: Out of memory allocating 11,607,198,208 bytes (allocated so far: 35,537,384,960 bytes).
+Processing instance: er_8388608_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 42: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 43: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 44: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 45: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 46: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 47: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 48: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 49: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 50: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_3.bin.gz with seed 51: Out of memory allocating 11,606,253,056 bytes (allocated so far: 35,537,384,960 bytes).
+Processing instance: er_8388608_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 42: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 43: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 44: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 45: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 46: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 47: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 48: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 49: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 50: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_4.bin.gz with seed 51: Out of memory allocating 11,607,855,104 bytes (allocated so far: 35,537,384,960 bytes).
+Processing instance: er_8388608_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 42: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 43: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 44: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 45: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 46: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 47: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 48: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+  Error processing er_8388608_1_5.bin.gz with seed 49: Out of memory allocating 11,606,324,224 bytes (allocated so far: 35,537,384,960 bytes).
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.

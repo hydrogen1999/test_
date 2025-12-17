@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,qqa_best_obj,qqa_runtime,sol_size,learning_rate,temp,min_bg,max_bg,curve_rate,div_param,num_epochs,check_interval,device,timestamp
+ba_65536_1_0.txt,barabasi_albert_selective_QQA,42,QQA2,-15542331.0,115.3021388053894,-15542331.0,115.20601677894592,128,1.2,0.01,-2.5,0.05,4,0.18,2500,400,cuda,2025-11-19 12:46:38

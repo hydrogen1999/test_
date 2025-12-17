@@ -1,0 +1,608 @@
+random_seed: 42
+num_seeds: 1
+
+
+
+SB_10: 
+  solver_name: "SB"
+  params:
+    agents: 10
+
+SB_20:
+  solver_name: "SB"
+  params:
+    agents: 20
+
+SB_50:
+  solver_name: "SB"
+  params:
+    agents: 50
+
+SB_100:
+  solver_name: "SB"
+  params:
+    agents: 100
+
+SB_200:
+  solver_name: "SB"
+  params:
+    agents: 200
+
+SB_500:
+  solver_name: "SB"
+  params:
+    agents: 500
+
+SB_1000:
+  solver_name: "SB"
+  params:
+    agents: 1000
+
+SB_2000:
+  solver_name: "SB"
+  params:
+    agents: 2000
+
+SB_5000:
+  solver_name: "SB"
+  params:
+    agents: 5000
+
+SB_10000:
+  solver_name: "SB"
+  params:
+    agents: 10000
+
+
+
+TS_10:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 10
+
+TS_20:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 20
+
+TS_50:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 50
+
+TS_100:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 100
+
+TS_200:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 200
+
+TS_500:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 500
+
+TS_1000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 1000
+
+TS_2000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 2000
+
+TS_5000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 5000
+
+TS_10000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 10000
+
+
+
+GREEDY_10:
+  solver_name: "greedy"
+  params:
+    n_trials: 10
+
+GREEDY_20:
+  solver_name: "greedy"
+  params:
+    n_trials: 20
+
+GREEDY_50:
+  solver_name: "greedy"
+  params:
+    n_trials: 50
+
+GREEDY_100:
+  solver_name: "greedy"
+  params:
+    n_trials: 100
+
+GREEDY_200:
+  solver_name: "greedy"
+  params:
+    n_trials: 200
+
+GREEDY_500:
+  solver_name: "greedy"
+  params:
+    n_trials: 500
+
+GREEDY_1000:
+  solver_name: "greedy"
+  params:
+    n_trials: 1000
+
+GREEDY_2000:
+  solver_name: "greedy"
+  params:
+    n_trials: 2000
+
+GREEDY_5000:
+  solver_name: "greedy"
+  params:
+    n_trials: 5000
+
+GREEDY_10000:
+  solver_name: "greedy"
+  params:
+    n_trials: 10000
+
+
+
+SpecAnn_1:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 1
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_2:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 2
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_3:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 3
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_4:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 4
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_5:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 5
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_6:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 6
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_7:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 7
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_8:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 8
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_9:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 9
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn_10:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 10
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+
+
+SA_10:
+  solver_name: "SA"
+  params:
+    num_reads: 10
+
+SA_20:
+  solver_name: "SA"
+  params:
+    num_reads: 20
+
+SA_50:
+  solver_name: "SA"
+  params:
+    num_reads: 50
+
+SA_100:
+  solver_name: "SA"
+  params:
+    num_reads: 100
+
+SA_200:
+  solver_name: "SA"
+  params:
+    num_reads: 200
+
+SA_500:
+  solver_name: "SA"
+  params:
+    num_reads: 500
+
+SA_1000:
+  solver_name: "SA"
+  params:
+    num_reads: 1000
+    
+SA_2000:
+  solver_name: "SA"
+  params:
+    num_reads: 2000
+    
+SA_5000:
+  solver_name: "SA"
+  params:
+    num_reads: 5000
+    
+SA_10000:
+  solver_name: "SA"
+  params:
+    num_reads: 10000
+    
+
+
+GUROBI_1:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 60
+
+GUROBI_2:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 120
+
+GUROBI_4:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 240
+
+GUROBI_8:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 480
+
+GUROBI_15:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 900
+
+GUROBI_30:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 1800
+
+GUROBI_60:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 3600
+
+GUROBI_120:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 7200
+
+GUROBI_240:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 14400
+
+GUROBI_480:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 28800
+
+
+
+PT_10:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 10
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_20:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 20
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_50:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 50
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_100:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 100
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_200:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 200
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_500:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 500
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_1000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 1000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_2000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 2000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_5000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 5000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_10000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 10000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+
+
+QQA_10:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 10
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_20:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 20
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_50:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 50
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_100:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 100
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_200:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 200
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_500:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 500
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_1000:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 1000
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_2000:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 2000
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_5000:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 5000
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+QQA_10000:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 10000
+    check_interval: 500 
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)

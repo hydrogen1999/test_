@@ -1,0 +1,465 @@
+==================================
+= Job name: SpecAnn_hand_test2   =
+= Job id: 3259                   =
+= Submitted: 2025-11-16 04:08:07 =
+= Ended: 2025-11-16 04:09:30     =
+==================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+=====================================
+= Job name: SpecAnn-cold_hand_test2 =
+= Job id: 3260                      =
+= Submitted: 2025-11-16 04:08:07    =
+= Ended: 2025-11-16 04:10:28        =
+=====================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+===================================
+= Job name: SpecAnn-64_hand_test2 =
+= Job id: 3261                    =
+= Submitted: 2025-11-16 04:09:28  =
+= Ended: 2025-11-16 04:10:47      =
+===================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+==================================
+= Job name: SpecAnn_hand_test2   =
+= Job id: 3262                   =
+= Submitted: 2025-11-16 04:14:32 =
+= Ended: 2025-11-16 04:16:20     =
+==================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+=====================================
+= Job name: SpecAnn-cold_hand_test2 =
+= Job id: 3263                      =
+= Submitted: 2025-11-16 04:14:32    =
+= Ended: 2025-11-16 04:17:19        =
+=====================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+===================================
+= Job name: SpecAnn-64_hand_test2 =
+= Job id: 3264                    =
+= Submitted: 2025-11-16 04:16:20  =
+= Ended: 2025-11-16 04:18:07      =
+===================================
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+
+===============================================
+= Job name: SpecAnn_barabasi_albert_10ins_m20 =
+= Job id: 3265                                =
+= Submitted: 2025-11-16 04:24:54              =
+= Ended: 2025-11-16 06:07:38                  =
+===============================================
+
+====================================================
+= Job name: SpecAnn-cold_barabasi_albert_10ins_m20 =
+= Job id: 3266                                     =
+= Submitted: 2025-11-16 04:24:54                   =
+= Ended: 2025-11-16 06:49:01                       =
+====================================================
+
+==================================================
+= Job name: SpecAnn-64_barabasi_albert_10ins_m20 =
+= Job id: 3267                                   =
+= Submitted: 2025-11-16 06:07:38                 =
+= Ended: 2025-11-16 08:07:37                     =
+==================================================
+
+=============================================
+= Job name: SB_10_barabasi_albert_selective =
+= Job id: 3296                              =
+= Submitted: 2025-11-18 02:10:46            =
+= Ended: 2025-11-18 02:10:52                =
+=============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A🔁 Iterations       :  24%|██▍       | 2420/10000 [00:00<00:01, 4839.43 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  50%|█████     | 5/10 [00:00<00:00,  7.45 agents/s][A🔁 Iterations       :  40%|████      | 4050/10000 [00:00<00:01, 5547.40 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 10/10 [00:00<00:00, 13.73 agents/s]
+
+=============================================
+= Job name: SB_20_barabasi_albert_selective =
+= Job id: 3297                              =
+= Submitted: 2025-11-18 02:10:51            =
+= Ended: 2025-11-18 02:10:59                =
+=============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A🔁 Iterations       :  22%|██▏       | 2230/10000 [00:00<00:01, 4459.04 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/20 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  90%|█████████ | 18/20 [00:00<00:00, 23.19 agents/s][A🔁 Iterations       :  43%|████▎     | 4300/10000 [00:00<00:01, 5376.99 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 20/20 [00:00<00:00, 25.06 agents/s]
+
+=============================================
+= Job name: SB_50_barabasi_albert_selective =
+= Job id: 3298                              =
+= Submitted: 2025-11-18 02:10:58            =
+= Ended: 2025-11-18 02:11:06                =
+=============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A🔁 Iterations       :  24%|██▍       | 2408/10000 [00:00<00:01, 4815.10 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/50 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  52%|█████▏    | 26/50 [00:00<00:00, 38.60 agents/s][A🔁 Iterations       :  49%|████▉     | 4900/10000 [00:00<00:00, 5758.19 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 50/50 [00:00<00:00, 58.87 agents/s]
+
+==============================================
+= Job name: SB_100_barabasi_albert_selective =
+= Job id: 3299                               =
+= Submitted: 2025-11-18 02:11:05             =
+= Ended: 2025-11-18 02:11:13                 =
+==============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A🔁 Iterations       :  24%|██▍       | 2400/10000 [00:00<00:01, 4798.70 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/100 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  52%|█████▏    | 52/100 [00:00<00:00, 76.87 agents/s][A🔁 Iterations       :  45%|████▌     | 4500/10000 [00:00<00:00, 5636.62 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 100/100 [00:00<00:00, 125.53 agents/s]
+
+==============================================
+= Job name: SB_200_barabasi_albert_selective =
+= Job id: 3300                               =
+= Submitted: 2025-11-18 02:11:12             =
+= Ended: 2025-11-18 02:11:20                 =
+==============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A🔁 Iterations       :  21%|██▏       | 2135/10000 [00:00<00:01, 4268.94 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/200 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  95%|█████████▌| 190/200 [00:00<00:00, 242.45 agents/s][A🔁 Iterations       :  47%|████▋     | 4700/10000 [00:00<00:00, 5443.38 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 200/200 [00:00<00:00, 232.17 agents/s]
+
+==============================================
+= Job name: SB_500_barabasi_albert_selective =
+= Job id: 3301                               =
+= Submitted: 2025-11-18 02:11:18             =
+= Ended: 2025-11-18 02:11:24                 =
+==============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A🔁 Iterations       :  16%|█▋        | 1633/10000 [00:00<00:02, 3265.56 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/500 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:  19%|█▉        | 96/500 [00:00<00:03, 120.95 agents/s][A
+🏁 Bifurcated agents:  97%|█████████▋| 484/500 [00:00<00:00, 537.13 agents/s][A🔁 Iterations       :  48%|████▊     | 4845/10000 [00:01<00:01, 4927.78 steps/s]🔁 Iterations       :  65%|██████▌   | 6500/10000 [00:01<00:00, 5184.48 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 500/500 [00:01<00:00, 399.37 agents/s]
+
+===============================================
+= Job name: SB_1000_barabasi_albert_selective =
+= Job id: 3302                                =
+= Submitted: 2025-11-18 02:11:24              =
+= Ended: 2025-11-18 02:11:32                  =
+===============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A🔁 Iterations       :  11%|█         | 1087/10000 [00:00<00:04, 2173.34 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/1000 [00:00<?, ? agents/s][A🔁 Iterations       :  33%|███▎      | 3315/10000 [00:01<00:01, 3374.17 steps/s]
+🏁 Bifurcated agents:   3%|▎         | 26/1000 [00:01<00:38, 25.27 agents/s][A
+🏁 Bifurcated agents:  89%|████████▊ | 887/1000 [00:01<00:00, 778.29 agents/s][A🔁 Iterations       :  56%|█████▌    | 5571/10000 [00:01<00:01, 3793.83 steps/s]🔁 Iterations       :  60%|█████▉    | 5950/10000 [00:01<00:01, 3754.56 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 1000/1000 [00:01<00:00, 631.77 agents/s]
+
+===============================================
+= Job name: SB_2000_barabasi_albert_selective =
+= Job id: 3303                                =
+= Submitted: 2025-11-18 02:11:31              =
+= Ended: 2025-11-18 02:11:39                  =
+===============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A🔁 Iterations       :   8%|▊         | 750/10000 [00:00<00:06, 1499.76 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:00<?, ? agents/s][A🔁 Iterations       :  21%|██        | 2071/10000 [00:01<00:03, 2100.53 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/2000 [00:01<?, ? agents/s][A🔁 Iterations       :  34%|███▍      | 3416/10000 [00:01<00:02, 2317.86 steps/s]
+🏁 Bifurcated agents:  10%|▉         | 195/2000 [00:01<00:14, 127.47 agents/s][A
+🏁 Bifurcated agents:  75%|███████▍  | 1497/2000 [00:01<00:00, 911.98 agents/s][A🔁 Iterations       :  47%|████▋     | 4747/10000 [00:02<00:02, 2417.83 steps/s]🔁 Iterations       :  59%|█████▉    | 5900/10000 [00:02<00:01, 2423.18 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 2000/2000 [00:02<00:00, 822.21 agents/s]
+
+===============================================
+= Job name: SB_5000_barabasi_albert_selective =
+= Job id: 3304                                =
+= Submitted: 2025-11-18 02:11:39              =
+= Ended: 2025-11-18 02:11:51                  =
+===============================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A🔁 Iterations       :   3%|▎         | 303/10000 [00:00<00:16, 605.86 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:00<?, ? agents/s][A🔁 Iterations       :   8%|▊         | 828/10000 [00:01<00:10, 839.03 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A🔁 Iterations       :  14%|█▍        | 1375/10000 [00:01<00:09, 932.90 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:01<?, ? agents/s][A🔁 Iterations       :  19%|█▉        | 1920/10000 [00:02<00:08, 978.23 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A🔁 Iterations       :  25%|██▍       | 2464/10000 [00:02<00:07, 1004.80 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:02<?, ? agents/s][A🔁 Iterations       :  30%|███       | 3009/10000 [00:03<00:06, 1022.69 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/5000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 2/5000 [00:03<2:19:50,  1.68s/ agents][A
+🏁 Bifurcated agents:  19%|█▉        | 954/5000 [00:03<00:14, 272.92 agents/s][A🔁 Iterations       :  36%|███▌      | 3555/10000 [00:03<00:06, 1035.87 steps/s]
+🏁 Bifurcated agents:  56%|█████▌    | 2784/5000 [00:03<00:02, 766.39 agents/s][A
+🏁 Bifurcated agents:  93%|█████████▎| 4671/5000 [00:03<00:00, 1168.43 agents/s][A🔁 Iterations       :  41%|████      | 4103/10000 [00:04<00:05, 1046.31 steps/s]🔁 Iterations       :  47%|████▋     | 4651/10000 [00:04<00:05, 1054.38 steps/s]🔁 Iterations       :  52%|█████▏    | 5201/10000 [00:05<00:04, 1060.86 steps/s]🔁 Iterations       :  58%|█████▊    | 5751/10000 [00:05<00:03, 1065.92 steps/s]🔁 Iterations       :  58%|█████▊    | 5850/10000 [00:05<00:03, 1044.99 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 5000/5000 [00:05<00:00, 893.67 agents/s] 
+
+================================================
+= Job name: SB_10000_barabasi_albert_selective =
+= Job id: 3305                                 =
+= Submitted: 2025-11-18 02:11:50               =
+= Ended: 2025-11-18 02:12:06                   =
+================================================
+🔁 Iterations       :   0%|          | 0/10000 [00:00<?, ? steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A🔁 Iterations       :   2%|▏         | 151/10000 [00:00<00:32, 300.67 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:00<?, ? agents/s][A🔁 Iterations       :   4%|▍         | 418/10000 [00:01<00:22, 422.74 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:01<?, ? agents/s][A🔁 Iterations       :   7%|▋         | 683/10000 [00:01<00:20, 461.79 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:01<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:01<?, ? agents/s][A🔁 Iterations       :  10%|▉         | 951/10000 [00:02<00:18, 483.32 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:02<?, ? agents/s][A🔁 Iterations       :  12%|█▏        | 1222/10000 [00:02<00:17, 497.59 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:02<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:02<?, ? agents/s][A🔁 Iterations       :  15%|█▍        | 1495/10000 [00:03<00:16, 507.83 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A🔁 Iterations       :  18%|█▊        | 1767/10000 [00:03<00:15, 514.65 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:03<?, ? agents/s][A🔁 Iterations       :  20%|██        | 2041/10000 [00:04<00:15, 520.20 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:04<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:04<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:04<?, ? agents/s][A🔁 Iterations       :  23%|██▎       | 2313/10000 [00:04<00:14, 523.94 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:04<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:04<?, ? agents/s][A🔁 Iterations       :  26%|██▌       | 2587/10000 [00:05<00:14, 527.34 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A🔁 Iterations       :  29%|██▊       | 2859/10000 [00:05<00:13, 529.61 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:05<?, ? agents/s][A🔁 Iterations       :  31%|███▏      | 3133/10000 [00:06<00:12, 531.99 steps/s]
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:06<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 0/10000 [00:06<?, ? agents/s][A
+🏁 Bifurcated agents:   0%|          | 4/10000 [00:06<4:30:47,  1.63s/ agents][A🔁 Iterations       :  34%|███▍      | 3405/10000 [00:06<00:12, 533.39 steps/s]
+🏁 Bifurcated agents:   9%|▉         | 897/10000 [00:06<01:07, 134.19 agents/s][A
+🏁 Bifurcated agents:  32%|███▏      | 3156/10000 [00:06<00:14, 459.48 agents/s][A🔁 Iterations       :  37%|███▋      | 3678/10000 [00:07<00:11, 534.96 steps/s]
+🏁 Bifurcated agents:  56%|█████▌    | 5619/10000 [00:07<00:05, 796.71 agents/s][A
+🏁 Bifurcated agents:  84%|████████▍ | 8405/10000 [00:07<00:01, 1132.76 agents/s][A🔁 Iterations       :  40%|███▉      | 3951/10000 [00:07<00:11, 536.06 steps/s]🔁 Iterations       :  42%|████▏     | 4225/10000 [00:08<00:10, 537.29 steps/s]🔁 Iterations       :  45%|████▍     | 4498/10000 [00:08<00:10, 538.31 steps/s]🔁 Iterations       :  48%|████▊     | 4770/10000 [00:09<00:09, 538.91 steps/s]🔁 Iterations       :  50%|█████     | 5043/10000 [00:09<00:09, 539.56 steps/s]🔁 Iterations       :  53%|█████▎    | 5316/10000 [00:10<00:08, 540.10 steps/s]🔁 Iterations       :  56%|█████▌    | 5589/10000 [00:10<00:08, 540.68 steps/s]🔁 Iterations       :  58%|█████▊    | 5850/10000 [00:11<00:07, 531.56 steps/s]
+🏁 Bifurcated agents: 100%|██████████| 10000/10000 [00:11<00:00, 909.00 agents/s]
+
+=================================================
+= Job name: SpecAnn_1_barabasi_albert_selective =
+= Job id: 3306                                  =
+= Submitted: 2025-11-18 02:14:04                =
+= Ended: 2025-11-18 02:14:08                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_2_barabasi_albert_selective =
+= Job id: 3307                                  =
+= Submitted: 2025-11-18 02:14:07                =
+= Ended: 2025-11-18 02:14:11                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_3_barabasi_albert_selective =
+= Job id: 3308                                  =
+= Submitted: 2025-11-18 02:14:11                =
+= Ended: 2025-11-18 02:14:15                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_4_barabasi_albert_selective =
+= Job id: 3309                                  =
+= Submitted: 2025-11-18 02:14:15                =
+= Ended: 2025-11-18 02:14:21                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_5_barabasi_albert_selective =
+= Job id: 3310                                  =
+= Submitted: 2025-11-18 02:14:20                =
+= Ended: 2025-11-18 02:14:31                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_6_barabasi_albert_selective =
+= Job id: 3311                                  =
+= Submitted: 2025-11-18 02:14:30                =
+= Ended: 2025-11-18 02:14:40                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_7_barabasi_albert_selective =
+= Job id: 3312                                  =
+= Submitted: 2025-11-18 02:14:40                =
+= Ended: 2025-11-18 02:14:54                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_8_barabasi_albert_selective =
+= Job id: 3313                                  =
+= Submitted: 2025-11-18 02:14:54                =
+= Ended: 2025-11-18 02:15:16                    =
+=================================================
+
+=================================================
+= Job name: SpecAnn_9_barabasi_albert_selective =
+= Job id: 3314                                  =
+= Submitted: 2025-11-18 02:15:16                =
+= Ended: 2025-11-18 02:15:56                    =
+=================================================
+
+==================================================
+= Job name: SpecAnn_10_barabasi_albert_selective =
+= Job id: 3315                                   =
+= Submitted: 2025-11-18 02:15:56                 =
+= Ended: 2025-11-18 02:17:14                     =
+==================================================
+
+================================================
+= Job name: QQA2_barabasi_albert_selective_QQA =
+= Job id: 3319                                 =
+= Submitted: 2025-11-19 12:43:07               =
+= Ended: 2025-11-19 12:46:50                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA1_barabasi_albert_selective_QQA =
+= Job id: 3318                                 =
+= Submitted: 2025-11-19 12:43:07               =
+= Ended: 2025-11-19 12:51:06                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA3_barabasi_albert_selective_QQA =
+= Job id: 3320                                 =
+= Submitted: 2025-11-19 12:46:49               =
+= Ended: 2025-11-19 12:51:13                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA4_barabasi_albert_selective_QQA =
+= Job id: 3321                                 =
+= Submitted: 2025-11-19 12:51:05               =
+= Ended: 2025-11-19 12:55:45                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA6_barabasi_albert_selective_QQA =
+= Job id: 3323                                 =
+= Submitted: 2025-11-19 12:55:44               =
+= Ended: 2025-11-19 12:59:34                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA5_barabasi_albert_selective_QQA =
+= Job id: 3322                                 =
+= Submitted: 2025-11-19 12:51:13               =
+= Ended: 2025-11-19 12:59:52                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA7_barabasi_albert_selective_QQA =
+= Job id: 3324                                 =
+= Submitted: 2025-11-19 12:59:33               =
+= Ended: 2025-11-19 13:03:23                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA8_barabasi_albert_selective_QQA =
+= Job id: 3325                                 =
+= Submitted: 2025-11-19 12:59:52               =
+= Ended: 2025-11-19 13:03:41                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+================================================
+= Job name: QQA9_barabasi_albert_selective_QQA =
+= Job id: 3326                                 =
+= Submitted: 2025-11-19 13:03:21               =
+= Ended: 2025-11-19 13:07:11                   =
+================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+
+=================================================
+= Job name: QQA10_barabasi_albert_selective_QQA =
+= Job id: 3327                                  =
+= Submitted: 2025-11-19 13:03:42                =
+= Ended: 2025-11-19 13:07:31                    =
+=================================================
+/home/congp/SpectralAnnealing_revise/models/qqa_solver.py:73: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:53.)
+  self.J_sparse_csr = self.J_sparse.to_sparse_csr()
+

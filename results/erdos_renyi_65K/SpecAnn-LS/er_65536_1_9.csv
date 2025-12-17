@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+er_65536_1_9.txt,erdos_renyi_65K,42,SpecAnn-LS,-15424228.000000002,4.367338180541992,False,0,0.9221679352414079,1.0,0,32,2025-11-23 19:17:25

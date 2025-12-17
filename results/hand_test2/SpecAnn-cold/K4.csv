@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+K4.txt,hand_test2,42,SpecAnn-cold,inf,0.2702667713165283,True,0,,,0,32,2025-11-16 04:16:04
+K4.txt,hand_test2,43,SpecAnn-cold,inf,0.2705974578857422,True,0,,,0,32,2025-11-16 04:16:04
+K4.txt,hand_test2,44,SpecAnn-cold,inf,0.2682979106903076,True,0,,,0,32,2025-11-16 04:16:05
+K4.txt,hand_test2,45,SpecAnn-cold,inf,0.2685666084289551,True,0,,,0,32,2025-11-16 04:16:05
+K4.txt,hand_test2,46,SpecAnn-cold,inf,0.2685165405273437,True,0,,,0,32,2025-11-16 04:16:05
+K4.txt,hand_test2,47,SpecAnn-cold,inf,0.2693157196044922,True,0,,,0,32,2025-11-16 04:16:06
+K4.txt,hand_test2,48,SpecAnn-cold,inf,0.2685651779174804,True,0,,,0,32,2025-11-16 04:16:06
+K4.txt,hand_test2,49,SpecAnn-cold,inf,0.267979621887207,True,0,,,0,32,2025-11-16 04:16:06
+K4.txt,hand_test2,50,SpecAnn-cold,inf,0.2692201137542724,True,0,,,0,32,2025-11-16 04:16:06
+K4.txt,hand_test2,51,SpecAnn-cold,inf,0.2682950496673584,True,0,,,0,32,2025-11-16 04:16:07

@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+ws_65536_1_8.txt,watts_strogatz_65K,42,SpecAnn-LS,-15409144.0,3.4553604125976562,False,0,0.9125114603961589,1.0,0,32,2025-11-23 19:17:21

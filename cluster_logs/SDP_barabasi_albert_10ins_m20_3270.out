@@ -1,0 +1,4 @@
+Running solver: SDP
+Dataset: barabasi_albert_10ins_m20
+[GENERAL] Dataset: barabasi_albert_10ins_m20, -----------------------------------------------------------
+✗ SDP on barabasi_albert_10ins_m20 FAILED

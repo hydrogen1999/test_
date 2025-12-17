@@ -1,0 +1,4 @@
+QQA_erdos_renyi_10ins_m20.sh
+SpecAdj_erdos_renyi_10ins_m20.sh
+SpecSignedLap_erdos_renyi_10ins_m20.sh
+SpecAnn_erdos_renyi_10ins_m20.sh

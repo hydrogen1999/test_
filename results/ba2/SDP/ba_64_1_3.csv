@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,sdp_objective,num_rounding_trials,timestamp
+ba_64_1_3.txt,ba2,42,SDP,-13293.999999999998,0.8274796009063721,-32413.584626203097,10,2025-11-17 01:37:44

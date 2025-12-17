@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,k,tau_p,tau_n,use_sym,timestamp
+ba_2097152_1_0.bin.gz,barabasi_albert,42,SPONGE,-408483408.0,87.06647801399231,2,1.0,1.0,True,2025-11-16 15:20:52

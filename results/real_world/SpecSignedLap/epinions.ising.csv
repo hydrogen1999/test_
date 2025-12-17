@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+epinions.ising.txt,real_world,42,SpecSignedLap,-589679.0000000001,0.3303110599517822,True,16,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,43,SpecSignedLap,-590089.0000000001,0.0600008964538574,True,14,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,44,SpecSignedLap,-588929.0,0.0608665943145751,True,17,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,45,SpecSignedLap,-589565.0,0.0597074031829834,True,14,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,46,SpecSignedLap,-589921.0,0.0559511184692382,True,17,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,47,SpecSignedLap,-589373.0,0.0424308776855468,True,15,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,48,SpecSignedLap,-589151.0,0.04266357421875,True,16,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,49,SpecSignedLap,-588947.0,0.0422980785369873,True,13,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,50,SpecSignedLap,-588759.0,0.0432257652282714,True,18,1.0,1.0,1,2025-11-24 06:50:55
+epinions.ising.txt,real_world,51,SpecSignedLap,-589483.0,0.042319297790527344,True,15,1.0,1.0,1,2025-11-24 06:50:55

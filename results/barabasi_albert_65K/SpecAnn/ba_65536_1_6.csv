@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+ba_65536_1_6.txt,barabasi_albert_65K,42,SpecAnn,-16674233.999999998,5.211093187332153,True,63,0.9505489503895179,1.0,0,32,2025-11-23 19:14:52

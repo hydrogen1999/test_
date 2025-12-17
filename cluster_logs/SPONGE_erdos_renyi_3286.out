@@ -1,0 +1,581 @@
+Running solver: SPONGE
+Dataset: erdos_renyi
+[GENERAL] Dataset: erdos_renyi, -----------------------------------------------------------
+Running: SPONGE
+Solver: sponge
+Dataset: erdos_renyi
+==================================================
+Processing instance: er_2097152_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -455104437.000000
+Total time: 99.4269s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_0.csv
+Energy: -455104437.000000
+Time: 99.4269s
+----------------------------------------
+Processing instance: er_2097152_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454736045.000000
+Total time: 94.4574s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_1.csv
+Energy: -454736045.000000
+Time: 94.4574s
+----------------------------------------
+Processing instance: er_2097152_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -455086289.000000
+Total time: 92.7674s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_2.csv
+Energy: -455086289.000000
+Time: 92.7674s
+----------------------------------------
+Processing instance: er_2097152_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454550625.000000
+Total time: 83.5345s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_3.csv
+Energy: -454550625.000000
+Time: 83.5345s
+----------------------------------------
+Processing instance: er_2097152_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454082162.000000
+Total time: 90.4275s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_4.csv
+Energy: -454082162.000000
+Time: 90.4275s
+----------------------------------------
+Processing instance: er_2097152_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454663859.000000
+Total time: 84.6992s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_5.csv
+Energy: -454663859.000000
+Time: 84.6992s
+----------------------------------------
+Processing instance: er_2097152_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454730791.000000
+Total time: 85.9196s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_6.csv
+Energy: -454730791.000000
+Time: 85.9196s
+----------------------------------------
+Processing instance: er_2097152_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -454506443.000000
+Total time: 93.5574s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_7.csv
+Energy: -454506443.000000
+Time: 93.5574s
+----------------------------------------
+Processing instance: er_2097152_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -455031749.000000
+Total time: 87.5089s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_8.csv
+Energy: -455031749.000000
+Time: 87.5089s
+----------------------------------------
+Processing instance: er_2097152_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -455054118.000000
+Total time: 88.8798s
+Results saved to: results/erdos_renyi/SPONGE/er_2097152_1_9.csv
+Energy: -455054118.000000
+Time: 88.8798s
+----------------------------------------
+Processing instance: er_4194304_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -830353092.000000
+Total time: 285.2880s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_0.csv
+Energy: -830353092.000000
+Time: 285.2880s
+----------------------------------------
+Processing instance: er_4194304_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -829993882.000000
+Total time: 289.9020s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_1.csv
+Energy: -829993882.000000
+Time: 289.9020s
+----------------------------------------
+Processing instance: er_4194304_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -830045477.000000
+Total time: 283.5862s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_2.csv
+Energy: -830045477.000000
+Time: 283.5862s
+----------------------------------------
+Processing instance: er_4194304_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -829660399.000000
+Total time: 284.2791s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_3.csv
+Energy: -829660399.000000
+Time: 284.2791s
+----------------------------------------
+Processing instance: er_4194304_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -830713555.000000
+Total time: 289.4602s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_4.csv
+Energy: -830713555.000000
+Time: 289.4602s
+----------------------------------------
+Processing instance: er_4194304_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -830018305.000000
+Total time: 282.0915s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_5.csv
+Energy: -830018305.000000
+Time: 282.0915s
+----------------------------------------
+Processing instance: er_4194304_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -829842430.000000
+Total time: 283.9107s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_6.csv
+Energy: -829842430.000000
+Time: 283.9107s
+----------------------------------------
+Processing instance: er_4194304_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -829727803.000000
+Total time: 277.0208s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_7.csv
+Energy: -829727803.000000
+Time: 277.0208s
+----------------------------------------
+Processing instance: er_4194304_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -828844805.000000
+Total time: 279.0135s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_8.csv
+Energy: -828844805.000000
+Time: 279.0135s
+----------------------------------------
+Processing instance: er_4194304_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -829820094.000000
+Total time: 276.7528s
+Results saved to: results/erdos_renyi/SPONGE/er_4194304_1_9.csv
+Energy: -829820094.000000
+Time: 276.7528s
+----------------------------------------
+Processing instance: er_8388608_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1362391053.000000
+Total time: 614.5689s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_0.csv
+Energy: -1362391053.000000
+Time: 614.5689s
+----------------------------------------
+Processing instance: er_8388608_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1363427524.000000
+Total time: 613.7052s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_1.csv
+Energy: -1363427524.000000
+Time: 613.7052s
+----------------------------------------
+Processing instance: er_8388608_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1363415970.000000
+Total time: 612.0762s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_2.csv
+Energy: -1363415970.000000
+Time: 612.0762s
+----------------------------------------
+Processing instance: er_8388608_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1361874285.000000
+Total time: 608.1113s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_3.csv
+Energy: -1361874285.000000
+Time: 608.1113s
+----------------------------------------
+Processing instance: er_8388608_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1363202505.000000
+Total time: 616.0542s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_4.csv
+Energy: -1363202505.000000
+Time: 616.0542s
+----------------------------------------
+Processing instance: er_8388608_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1363103135.000000
+Total time: 610.9451s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_5.csv
+Energy: -1363103135.000000
+Time: 610.9451s
+----------------------------------------
+Processing instance: er_8388608_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1360135574.000000
+Total time: 610.6529s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_6.csv
+Energy: -1360135574.000000
+Time: 610.6529s
+----------------------------------------
+Processing instance: er_8388608_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1362012724.000000
+Total time: 610.5768s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_7.csv
+Energy: -1362012724.000000
+Time: 610.5768s
+----------------------------------------
+Processing instance: er_8388608_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1361034502.000000
+Total time: 570.6746s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_8.csv
+Energy: -1361034502.000000
+Time: 570.6746s
+----------------------------------------
+Processing instance: er_8388608_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1362491916.000000
+Total time: 570.6449s
+Results saved to: results/erdos_renyi/SPONGE/er_8388608_1_9.csv
+Energy: -1362491916.000000
+Time: 570.6449s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SPONGE on erdos_renyi SUCCESS
+Completed 1 experiments in 15093 seconds

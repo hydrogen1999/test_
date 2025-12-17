@@ -1,0 +1,2 @@
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(

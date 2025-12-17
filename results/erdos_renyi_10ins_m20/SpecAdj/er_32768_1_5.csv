@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+er_32768_1_5.txt,erdos_renyi_10ins_m20,42,SpecAdj,-8614843.0,0.0445780754089355,True,62,0,1.0,0,2025-11-21 03:59:26
+er_32768_1_5.txt,erdos_renyi_10ins_m20,43,SpecAdj,-8621717.0,0.0409388542175293,True,54,0,1.0,0,2025-11-21 03:59:26
+er_32768_1_5.txt,erdos_renyi_10ins_m20,44,SpecAdj,-8646281.0,0.04728364944458,True,73,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,45,SpecAdj,-8612759.0,0.0422983169555664,True,59,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,46,SpecAdj,-8600069.0,0.0423495769500732,True,58,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,47,SpecAdj,-8598749.0,0.0505025386810302,True,85,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,48,SpecAdj,-8605573.0,0.0439434051513671,True,63,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,49,SpecAdj,-8624835.0,0.0410594940185546,True,55,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,50,SpecAdj,-8595285.0,0.0446326732635498,True,66,0,1.0,0,2025-11-21 03:59:27
+er_32768_1_5.txt,erdos_renyi_10ins_m20,51,SpecAdj,-8577565.0,0.042894840240478516,True,61,0,1.0,0,2025-11-21 03:59:27

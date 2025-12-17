@@ -1,0 +1,22 @@
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 65 with accuracies 
+[1.42e-06]
+not reaching the requested tolerance 9.685754776000977e-07.
+Use iteration 64 instead with accuracy 
+1.334572083275355e-06.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[1.33e-06]
+not reaching the requested tolerance 9.685754776000977e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 65 with accuracies 
+[2.63e-06]
+not reaching the requested tolerance 9.685754776000977e-07.
+Use iteration 63 instead with accuracy 
+2.492424425216673e-06.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[2.49e-06]
+not reaching the requested tolerance 9.685754776000977e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)

@@ -1,0 +1,611 @@
+Running solver: SDP
+Dataset: erdos_renyi
+[GENERAL] Dataset: erdos_renyi, -----------------------------------------------------------
+Running: SDP
+Solver: sdp
+Dataset: erdos_renyi
+==================================================
+Processing instance: er_2097152_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 46: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 47: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 48: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 49: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 50: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_0.bin.gz with seed 51: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+Processing instance: er_2097152_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 46: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 47: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 48: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 49: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 50: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_1.bin.gz with seed 51: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+Processing instance: er_2097152_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 46: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 47: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 48: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 49: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 50: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_2.bin.gz with seed 51: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+Processing instance: er_2097152_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 46: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 47: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 48: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 49: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 50: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_3.bin.gz with seed 51: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+Processing instance: er_2097152_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 46: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 47: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 48: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 49: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 50: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_4.bin.gz with seed 51: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+Processing instance: er_2097152_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 42: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 43: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 44: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing er_2097152_1_5.bin.gz with seed 45: Unable to allocate 32.0 TiB for an array with shape (2097153, 2097153) and data type float64
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz

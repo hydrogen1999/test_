@@ -1,0 +1,221 @@
+Running solver: SpecAnn-LS
+Dataset: barabasi_albert_65K
+[GENERAL] Dataset: barabasi_albert_65K, -----------------------------------------------------------
+Running: SpecAnn-LS
+Solver: spectral_annealing
+Dataset: barabasi_albert_65K
+==================================================
+Processing instance: ba_65536_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_0.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_0.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_0_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_1.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_1.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_1_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_2.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_2.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_2_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_3.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_3.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_3_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_4.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_4.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_4_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_5.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_5.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_5_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_6.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_6.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_6_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_7.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_7.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_7_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_8.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_8.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_8_alphas.csv (128 alpha values)
+Processing instance: ba_65536_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn-LS solver (GPU sparse). Results will be saved under 'SpecAnn-LS'.
+Parameters:
+  instance_name: ba_65536_1_9.txt
+  dataset: barabasi_albert_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: False
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn-LS
+--------------------------------------------------
+General results saved to: results/barabasi_albert_65K/SpecAnn-LS/ba_65536_1_9.csv
+Alpha results saved to: results/barabasi_albert_65K/SpecAnn-LS/alphas/ba_65536_1_9_alphas.csv (128 alpha values)
+==================================================
+Execution Finished.
+✓ SpecAnn-LS on barabasi_albert_65K SUCCESS
+Completed 1 experiments in 70 seconds

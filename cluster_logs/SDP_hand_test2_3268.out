@@ -1,0 +1,2687 @@
+Running solver: SDP
+Dataset: hand_test2
+[GENERAL] Dataset: hand_test2, -----------------------------------------------------------
+Running: SDP
+Solver: sdp
+Dataset: hand_test2
+==================================================
+Processing instance: K1.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 42: Invalid dimensions (0, 0).
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 43: Invalid dimensions (0, 0).
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 44: Invalid dimensions (0, 0).
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 45: Invalid dimensions (0, 0).
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 46: Invalid dimensions (0, 0).
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 47: Invalid dimensions (0, 0).
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 48: Invalid dimensions (0, 0).
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 49: Invalid dimensions (0, 0).
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 50: Invalid dimensions (0, 0).
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+  Error processing K1.txt with seed 51: Invalid dimensions (0, 0).
+Processing instance: K10.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0236s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0236s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0078s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0078s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0071s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0071s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0072s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0072s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0068s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0070s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0070s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0068s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K10.csv
+Energy: -12.000000
+Time: 0.0068s
+----------------------------------------
+Processing instance: K11.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0089s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0089s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0089s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0089s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.866667
+Best energy after 10 rounding trials: -4.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K11.csv
+Energy: -4.300000
+Time: 0.0092s
+----------------------------------------
+Processing instance: K12.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0095s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0095s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0094s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0094s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0093s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0093s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0093s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0093s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0090s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.663351
+Best energy after 10 rounding trials: -5.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K12.csv
+Energy: -5.300000
+Time: 0.0090s
+----------------------------------------
+Processing instance: K13.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0089s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0089s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0090s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0090s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0091s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0092s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0092s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0092s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0091s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0092s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -3.415255
+Best energy after 10 rounding trials: -4.700000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K13.csv
+Energy: -4.700000
+Time: 0.0091s
+----------------------------------------
+Processing instance: K14.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.646651
+Best energy after 10 rounding trials: -6.300000
+Total time: 0.0090s
+Results saved to: results/hand_test2/SDP/K14.csv
+Energy: -6.300000
+Time: 0.0090s
+----------------------------------------
+Processing instance: K15.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0093s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0093s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0093s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0093s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0091s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0091s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0092s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.308735
+Best energy after 10 rounding trials: -10.300000
+Total time: 0.0092s
+Results saved to: results/hand_test2/SDP/K15.csv
+Energy: -10.300000
+Time: 0.0092s
+----------------------------------------
+Processing instance: K16.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0068s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -4.000000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K16.csv
+Energy: -4.000000
+Time: 0.0067s
+----------------------------------------
+Processing instance: K2.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0060s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0060s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0060s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0060s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.000000
+Best energy after 10 rounding trials: -3.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K2.csv
+Energy: -3.000000
+Time: 0.0062s
+----------------------------------------
+Processing instance: K3.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0064s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0064s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0064s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0064s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0064s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0064s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0064s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0064s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K3.csv
+Energy: -4.000000
+Time: 0.0062s
+----------------------------------------
+Processing instance: K4.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0061s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0061s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0062s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0062s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.600000
+Best energy after 10 rounding trials: -4.000000
+Total time: 0.0063s
+Results saved to: results/hand_test2/SDP/K4.csv
+Energy: -4.000000
+Time: 0.0063s
+----------------------------------------
+Processing instance: K5.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0068s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.857143
+Best energy after 10 rounding trials: -10.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K5.csv
+Energy: -10.000000
+Time: 0.0066s
+----------------------------------------
+Processing instance: K6.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.181818
+Best energy after 10 rounding trials: -12.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K6.csv
+Energy: -12.000000
+Time: 0.0065s
+----------------------------------------
+Processing instance: K7.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0082s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0082s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0068s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0068s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0070s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0070s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0071s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0071s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0070s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0070s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0070s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0070s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.545455
+Best energy after 10 rounding trials: -14.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K7.csv
+Energy: -14.000000
+Time: 0.0069s
+----------------------------------------
+Processing instance: K8.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0069s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0069s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -2.603142
+Best energy after 10 rounding trials: -9.000000
+Total time: 0.0065s
+Results saved to: results/hand_test2/SDP/K8.csv
+Energy: -9.000000
+Time: 0.0065s
+----------------------------------------
+Processing instance: K9.txt
+  Seed 1/10 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 43
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 44
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 45
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 46
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0067s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0067s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 47
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 48
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 49
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 50
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 51
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -1.906887
+Best energy after 10 rounding trials: -5.000000
+Total time: 0.0066s
+Results saved to: results/hand_test2/SDP/K9.csv
+Energy: -5.000000
+Time: 0.0066s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SDP on hand_test2 SUCCESS
+Completed 1 experiments in 2 seconds

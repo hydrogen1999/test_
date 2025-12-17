@@ -1,0 +1,4 @@
+Running solver: SDP
+Dataset: erdos_renyi_10ins_m20
+[GENERAL] Dataset: erdos_renyi_10ins_m20, -----------------------------------------------------------
+✗ SDP on erdos_renyi_10ins_m20 FAILED

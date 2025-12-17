@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,k,tau_p,tau_n,use_sym,timestamp
+er_524288_1_4.txt,erdos_renyi_10ins_m20,42,SPONGE,-118718914.0,13.662236213684082,2,1.0,1.0,True,2025-11-16 15:14:49

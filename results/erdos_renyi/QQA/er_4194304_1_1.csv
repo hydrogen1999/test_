@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,qqa_best_obj,qqa_runtime,sol_size,learning_rate,temp,min_bg,max_bg,curve_rate,div_param,num_epochs,check_interval,device,timestamp
+er_4194304_1_1.bin.gz,erdos_renyi,42,QQA,-1042049280.0,5850.472606182098,-1042049408.0,5845.561457157135,100,1.0,0.001,-3.0,0.1,4.0,0.2,3000,500,cuda,2025-11-22 07:34:14

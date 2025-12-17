@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+K2.txt,hand_test2,42,SpecAnn,inf,0.2645821571350097,True,0,,,0,32,2025-11-16 04:15:37
+K2.txt,hand_test2,43,SpecAnn,inf,0.2648284435272217,True,0,,,0,32,2025-11-16 04:15:37
+K2.txt,hand_test2,44,SpecAnn,inf,0.2636866569519043,True,0,,,0,32,2025-11-16 04:15:37
+K2.txt,hand_test2,45,SpecAnn,inf,0.2643194198608398,True,0,,,0,32,2025-11-16 04:15:38
+K2.txt,hand_test2,46,SpecAnn,inf,0.2635159492492676,True,0,,,0,32,2025-11-16 04:15:38
+K2.txt,hand_test2,47,SpecAnn,inf,0.2660055160522461,True,0,,,0,32,2025-11-16 04:15:38
+K2.txt,hand_test2,48,SpecAnn,inf,0.2682557106018066,True,0,,,0,32,2025-11-16 04:15:38
+K2.txt,hand_test2,49,SpecAnn,inf,0.2669339179992676,True,0,,,0,32,2025-11-16 04:15:39
+K2.txt,hand_test2,50,SpecAnn,inf,0.2690229415893554,True,0,,,0,32,2025-11-16 04:15:39
+K2.txt,hand_test2,51,SpecAnn,inf,0.2702345848083496,True,0,,,0,32,2025-11-16 04:15:39

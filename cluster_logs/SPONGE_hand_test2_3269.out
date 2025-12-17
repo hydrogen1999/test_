@@ -1,0 +1,2857 @@
+Running solver: SPONGE
+Dataset: hand_test2
+[GENERAL] Dataset: hand_test2, -----------------------------------------------------------
+Running: SPONGE
+Solver: sponge
+Dataset: hand_test2
+==================================================
+Processing instance: K1.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 42: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 43: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 44: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 45: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 46: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 47: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 48: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 49: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 50: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K1.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+  Error processing K1.txt with seed 51: SPONGE execution failed: Found array with 0 sample(s) (shape=(0, 0)) while a minimum of 1 is required by KMeans.
+Processing instance: K10.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0187s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0187s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0029s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0029s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0027s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0027s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K10.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -12.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K10.csv
+Energy: -12.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K11.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0052s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0052s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.900000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -3.900000
+Time: 0.0047s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.900000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -3.900000
+Time: 0.0047s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.900000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -3.900000
+Time: 0.0047s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K11.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K11.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+Processing instance: K12.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.900000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -3.900000
+Time: 0.0048s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.900000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -3.900000
+Time: 0.0047s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K12.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K12.csv
+Energy: -4.300000
+Time: 0.0047s
+----------------------------------------
+Processing instance: K13.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0047s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0048s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0047s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0047s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0048s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0048s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0049s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0049s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0050s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0050s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K13.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.700000
+Total time: 0.0050s
+Results saved to: results/hand_test2/SPONGE/K13.csv
+Energy: -4.700000
+Time: 0.0050s
+----------------------------------------
+Processing instance: K14.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0050s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0050s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K14.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K14.csv
+Energy: -6.300000
+Time: 0.0047s
+----------------------------------------
+Processing instance: K15.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0048s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0048s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0049s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0049s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K15.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.300000
+Total time: 0.0047s
+Results saved to: results/hand_test2/SPONGE/K15.csv
+Energy: -10.300000
+Time: 0.0047s
+----------------------------------------
+Processing instance: K16.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K16.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K16.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+Processing instance: K2.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K2.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -3.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K2.csv
+Energy: -3.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K3.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K3.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K3.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+Processing instance: K4.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K4.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -4.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K4.csv
+Energy: -4.000000
+Time: 0.0025s
+----------------------------------------
+Processing instance: K5.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K5.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K5.csv
+Energy: -10.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K6.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K6.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -6.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K6.csv
+Energy: -6.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K7.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K7.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: 10.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K7.csv
+Energy: 10.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K8.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K8.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -9.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K8.csv
+Energy: -9.000000
+Time: 0.0026s
+----------------------------------------
+Processing instance: K9.txt
+  Seed 1/10 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 2/10 (seed=43)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 43
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 3/10 (seed=44)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 44
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 4/10 (seed=45)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 45
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0025s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0025s
+----------------------------------------
+  Seed 5/10 (seed=46)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 46
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 6/10 (seed=47)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 47
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 7/10 (seed=48)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 48
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 8/10 (seed=49)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 49
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 9/10 (seed=50)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 50
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+  Seed 10/10 (seed=51)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: K9.txt
+  dataset: hand_test2
+  random_seed: 51
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -5.000000
+Total time: 0.0026s
+Results saved to: results/hand_test2/SPONGE/K9.csv
+Energy: -5.000000
+Time: 0.0026s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SPONGE on hand_test2 SUCCESS
+Completed 1 experiments in 2 seconds

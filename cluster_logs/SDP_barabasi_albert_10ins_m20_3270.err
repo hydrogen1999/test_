@@ -1,0 +1,2 @@
+/var/spool/slurmd/job03270/slurm_script: line 30: 1397906 Killed                  python main.py --solver SDP --dataset barabasi_albert_10ins_m20
+[2025-11-16T13:15:35.229] error: Detected 1 oom_kill event in StepId=3270.batch. Some of the step tasks have been OOM Killed.

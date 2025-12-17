@@ -1,0 +1,772 @@
+/home/congp/SpectralAnnealing_revise/utils/data_loader.py:195: UserWarning: Found 2 isolated node(s) at indices [0, 1]. These nodes will be removed as they don't affect the optimization problem. Matrix size reduced from 2 to 0 nodes.
+  warnings.warn(
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 0 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[3.35e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+3.35075875013797e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[3.35e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00046931629698811.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0024580377629676827.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[4.95e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+4.9518368847396544e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[4.95e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.000503186906400897.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[9.61e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+9.606293490842791e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[9.61e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0018189095527879995.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[7.7e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+7.703333506591689e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[7.7e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00020062854645578576.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0018612066675362236.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0020875490082881195.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0011506073821538087.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0011677197859687447.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[6.95e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+6.95249286784229e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[6.95e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.001093796647087143.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00017824679127132593.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00014603556303302676.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00013831500332523686.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[6.2e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+6.202351440503412e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[6.2e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0007935660666182803.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.002357061086889096.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00027152016655894115.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.007284419744427188.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0005595315630683827.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.001282956160979677.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00012215688774213233.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.010543039025918147.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0005061728122274949.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0003015111702620565.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0002249623220890523.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 7 instead with accuracy 
+0.0016152465015318702.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00020095230964911737.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0015526907689977086.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[6.48e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+6.475339853808522e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[6.48e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 7 instead with accuracy 
+0.0001831008419583201.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00011644291946848538.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00019273592675826229.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00022177149632395183.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0005284889373430367.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.000712440455913018.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0034343737098135236.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0010323785415803062.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0006654386951049323.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.00011257103247276428.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[2.98e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+2.979920988651699e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[2.98e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[6.55e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+6.547653583222657e-05.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[6.55e-05]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0008086770647442596.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0001235988976667031.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.0009723766189992099.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited at iteration 7 with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+Use iteration 8 instead with accuracy 
+0.005355843115288348.
+
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: Exited postprocessing with accuracies 
+[0.01]
+not reaching the requested tolerance 1.043081283569336e-07.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 3 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)
+/home/congp/anaconda3/envs/ising-gpu/lib/python3.11/site-packages/signet/cluster.py:584: UserWarning: The problem size 4 minus the constraints size 0 is too small relative to the block size 1. Using a dense eigensolver instead of LOBPCG iterations.No output of the history of the iterations.
+  (w, v) = ss.linalg.lobpcg(matrix1, v0, B=matrix2, maxiter=mi, largest=False)

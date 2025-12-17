@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+G11.txt,Gset,42,SpecSignedLap,-1002.0,0.0299601554870605,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,43,SpecSignedLap,-990.0,0.0297925472259521,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,44,SpecSignedLap,-1014.0,0.0300607681274414,True,5,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,45,SpecSignedLap,-1006.0,0.0297908782958984,True,4,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,46,SpecSignedLap,-994.0,0.0293898582458496,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,47,SpecSignedLap,-1006.0,0.029435396194458,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,48,SpecSignedLap,-1006.0,0.0296144485473632,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,49,SpecSignedLap,-1014.0,0.0295803546905517,True,3,1.0,1.0,1,2025-11-24 04:57:51
+G11.txt,Gset,50,SpecSignedLap,-962.0,0.0297331809997558,True,4,1.0,1.0,1,2025-11-24 04:57:52
+G11.txt,Gset,51,SpecSignedLap,-994.0,0.02896595001220703,True,2,1.0,1.0,1,2025-11-24 04:57:52

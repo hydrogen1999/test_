@@ -1,0 +1,581 @@
+Running solver: SPONGE
+Dataset: barabasi_albert
+[GENERAL] Dataset: barabasi_albert, -----------------------------------------------------------
+Running: SPONGE
+Solver: sponge
+Dataset: barabasi_albert
+==================================================
+Processing instance: ba_2097152_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_0.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408483408.000000
+Total time: 87.0665s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_0.csv
+Energy: -408483408.000000
+Time: 87.0665s
+----------------------------------------
+Processing instance: ba_2097152_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_1.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408651274.000000
+Total time: 69.2616s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_1.csv
+Energy: -408651274.000000
+Time: 69.2616s
+----------------------------------------
+Processing instance: ba_2097152_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_2.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408423479.000000
+Total time: 68.3276s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_2.csv
+Energy: -408423479.000000
+Time: 68.3276s
+----------------------------------------
+Processing instance: ba_2097152_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_3.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408782504.000000
+Total time: 80.8972s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_3.csv
+Energy: -408782504.000000
+Time: 80.8972s
+----------------------------------------
+Processing instance: ba_2097152_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_4.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -409219570.000000
+Total time: 80.1106s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_4.csv
+Energy: -409219570.000000
+Time: 80.1106s
+----------------------------------------
+Processing instance: ba_2097152_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_5.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408511161.000000
+Total time: 79.2736s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_5.csv
+Energy: -408511161.000000
+Time: 79.2736s
+----------------------------------------
+Processing instance: ba_2097152_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_6.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -409208555.000000
+Total time: 78.1081s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_6.csv
+Energy: -409208555.000000
+Time: 78.1081s
+----------------------------------------
+Processing instance: ba_2097152_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_7.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408667779.000000
+Total time: 79.6371s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_7.csv
+Energy: -408667779.000000
+Time: 79.6371s
+----------------------------------------
+Processing instance: ba_2097152_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_8.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -409011191.000000
+Total time: 82.5129s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_8.csv
+Energy: -409011191.000000
+Time: 82.5129s
+----------------------------------------
+Processing instance: ba_2097152_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_2097152_1_9.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -408878705.000000
+Total time: 83.8270s
+Results saved to: results/barabasi_albert/SPONGE/ba_2097152_1_9.csv
+Energy: -408878705.000000
+Time: 83.8270s
+----------------------------------------
+Processing instance: ba_4194304_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_0.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747717647.000000
+Total time: 177.8048s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_0.csv
+Energy: -747717647.000000
+Time: 177.8048s
+----------------------------------------
+Processing instance: ba_4194304_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_1.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747675641.000000
+Total time: 168.7400s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_1.csv
+Energy: -747675641.000000
+Time: 168.7400s
+----------------------------------------
+Processing instance: ba_4194304_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_2.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747708098.000000
+Total time: 166.8173s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_2.csv
+Energy: -747708098.000000
+Time: 166.8173s
+----------------------------------------
+Processing instance: ba_4194304_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_3.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747949660.000000
+Total time: 169.8233s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_3.csv
+Energy: -747949660.000000
+Time: 169.8233s
+----------------------------------------
+Processing instance: ba_4194304_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_4.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -746712728.000000
+Total time: 169.2638s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_4.csv
+Energy: -746712728.000000
+Time: 169.2638s
+----------------------------------------
+Processing instance: ba_4194304_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_5.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747077654.000000
+Total time: 169.2183s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_5.csv
+Energy: -747077654.000000
+Time: 169.2183s
+----------------------------------------
+Processing instance: ba_4194304_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_6.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747727947.000000
+Total time: 165.6525s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_6.csv
+Energy: -747727947.000000
+Time: 165.6525s
+----------------------------------------
+Processing instance: ba_4194304_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_7.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747713739.000000
+Total time: 169.9644s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_7.csv
+Energy: -747713739.000000
+Time: 169.9644s
+----------------------------------------
+Processing instance: ba_4194304_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_8.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747683801.000000
+Total time: 166.9780s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_8.csv
+Energy: -747683801.000000
+Time: 166.9780s
+----------------------------------------
+Processing instance: ba_4194304_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_4194304_1_9.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -747138355.000000
+Total time: 171.4023s
+Results saved to: results/barabasi_albert/SPONGE/ba_4194304_1_9.csv
+Energy: -747138355.000000
+Time: 171.4023s
+----------------------------------------
+Processing instance: ba_8388608_1_0.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_0.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1222628697.000000
+Total time: 578.3151s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_0.csv
+Energy: -1222628697.000000
+Time: 578.3151s
+----------------------------------------
+Processing instance: ba_8388608_1_1.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_1.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223016650.000000
+Total time: 567.7142s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_1.csv
+Energy: -1223016650.000000
+Time: 567.7142s
+----------------------------------------
+Processing instance: ba_8388608_1_2.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_2.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223281140.000000
+Total time: 562.1043s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_2.csv
+Energy: -1223281140.000000
+Time: 562.1043s
+----------------------------------------
+Processing instance: ba_8388608_1_3.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_3.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1222272282.000000
+Total time: 562.9791s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_3.csv
+Energy: -1222272282.000000
+Time: 562.9791s
+----------------------------------------
+Processing instance: ba_8388608_1_4.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_4.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1221402740.000000
+Total time: 568.4473s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_4.csv
+Energy: -1221402740.000000
+Time: 568.4473s
+----------------------------------------
+Processing instance: ba_8388608_1_5.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_5.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223247452.000000
+Total time: 555.4835s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_5.csv
+Energy: -1223247452.000000
+Time: 555.4835s
+----------------------------------------
+Processing instance: ba_8388608_1_6.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_6.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223915382.000000
+Total time: 552.3099s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_6.csv
+Energy: -1223915382.000000
+Time: 552.3099s
+----------------------------------------
+Processing instance: ba_8388608_1_7.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_7.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223524521.000000
+Total time: 551.7263s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_7.csv
+Energy: -1223524521.000000
+Time: 551.7263s
+----------------------------------------
+Processing instance: ba_8388608_1_8.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_8.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1224345304.000000
+Total time: 553.4193s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_8.csv
+Energy: -1224345304.000000
+Time: 553.4193s
+----------------------------------------
+Processing instance: ba_8388608_1_9.bin.gz
+  Seed 1/1 (seed=42)
+Initialized SPONGE solver (SPONGE via SigNet). Results will be saved under 'SPONGE'.
+Parameters:
+  instance_name: ba_8388608_1_9.bin.gz
+  dataset: barabasi_albert
+  random_seed: 42
+  k (clusters): 2 (fixed for Ising)
+  tau_p: 1.0
+  tau_n: 1.0
+  use_sym: True
+  run_name: SPONGE
+--------------------------------------------------
+SPONGE finished. Best energy: -1223423026.000000
+Total time: 555.8577s
+Results saved to: results/barabasi_albert/SPONGE/ba_8388608_1_9.csv
+Energy: -1223423026.000000
+Time: 555.8577s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SPONGE on barabasi_albert SUCCESS
+Completed 1 experiments in 13459 seconds

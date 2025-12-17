@@ -1,0 +1,5441 @@
+Running solver: SpecAdj
+Dataset: erdos_renyi
+[GENERAL] Dataset: erdos_renyi, -----------------------------------------------------------
+Running: SpecAdj
+Solver: spec_adj
+Dataset: erdos_renyi
+==================================================
+Processing instance: er_2097152_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531085917.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531064515.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531126947.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530859162.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531111293.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531242345.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531413035.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531076443.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531056628.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530857273.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_0.bin.gz.csv
+Processing instance: er_2097152_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531261371.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531476181.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531324802.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531170319.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531291323.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531442973.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531392305.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531149714.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531539725.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530971128.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_1.bin.gz.csv
+Processing instance: er_2097152_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531163412.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531118473.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531546282.99999976
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531336130.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531577472.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531531348.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531457996.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531200068.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531359948.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531001944.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_2.bin.gz.csv
+Processing instance: er_2097152_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531264773.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531201687.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531309114.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531124551.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531308821.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531380918.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531174879.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531150121.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530874241.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530863706.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_3.bin.gz.csv
+Processing instance: er_2097152_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531476648.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531110418.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531225530.00000024
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531218681.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531492220.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531093835.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531357553.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531123528.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531605088.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531406687.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_4.bin.gz.csv
+Processing instance: er_2097152_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531023926.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531097726.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531132401.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531266717.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531287021.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530953775.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531245233.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531026340.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531341524.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531076887.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_5.bin.gz.csv
+Processing instance: er_2097152_1_6.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531115001.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531012005.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531090189.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531046645.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531145823.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530918250.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531407731.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530998877.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531353465.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531313697.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_6.bin.gz.csv
+Processing instance: er_2097152_1_7.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531230444.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530927119.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530935592.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531102495.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530765837.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530802611.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530956022.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530703395.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530980715.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531160519.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_7.bin.gz.csv
+Processing instance: er_2097152_1_8.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531451553.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531445807.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531044911.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531388723.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530904903.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531416026.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530789209.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531237477.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531125191.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531087665.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_8.bin.gz.csv
+Processing instance: er_2097152_1_9.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530849423.99999994
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530688049.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531349188.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531393450.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531100318.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531169860.0
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -531157964.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530932771.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530970084.00000006
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_2097152_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -530902307.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_2097152_1_9.bin.gz.csv
+Processing instance: er_4194304_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062129777.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062440252.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062494977.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062756496.0000004
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062398247.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062442402.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062627882.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062527934.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062701798.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062606363.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_0.bin.gz.csv
+Processing instance: er_4194304_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062308329.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062224532.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062185144.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061976156.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061582726.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062441728.0000004
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061980549.9999996
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061872312.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061975249.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062596400.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_1.bin.gz.csv
+Processing instance: er_4194304_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062146777.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062435692.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061875936.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062597506.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062113136.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062782540.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061868331.0000004
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062109490.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062501078.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062432232.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_2.bin.gz.csv
+Processing instance: er_4194304_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062108678.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062210553.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062148180.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062304117.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061788202.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062161767.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062422676.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062047728.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061486427.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062626281.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_3.bin.gz.csv
+Processing instance: er_4194304_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062953034.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062284330.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062640404.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1063135268.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062075255.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062458277.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062509550.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062593888.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062779038.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062563811.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_4.bin.gz.csv
+Processing instance: er_4194304_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062891599.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062469513.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062272628.9999996
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062525821.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062846929.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062040407.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062041070.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062578385.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062663215.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062732408.9999996
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_5.bin.gz.csv
+Processing instance: er_4194304_1_6.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062179704.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062685375.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062198508.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062207950.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062083601.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062369590.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062345254.0000004
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062311948.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062125446.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062606830.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_6.bin.gz.csv
+Processing instance: er_4194304_1_7.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062481735.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062352170.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062612310.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061959569.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062099219.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061903429.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062910659.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062679086.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062198138.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062286264.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_7.bin.gz.csv
+Processing instance: er_4194304_1_8.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062251995.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062193728.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062525257.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061809225.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062733761.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061965356.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061891826.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062271080.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062471100.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062245085.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_8.bin.gz.csv
+Processing instance: er_4194304_1_9.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062953099.9999999
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062490508.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062521672.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061652874.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062281082.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1061967220.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062402523.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062182840.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062614346.0
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_4194304_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -1062177896.0000001
+Results saved to: results/erdos_renyi/SpecAdj/er_4194304_1_9.bin.gz.csv
+Processing instance: er_8388608_1_0.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124157490.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125190088.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124742271.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124625410.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123958555.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124379275.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125568902.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125071296.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124457629.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_0.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124353136.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_0.bin.gz.csv
+Processing instance: er_8388608_1_1.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124984854.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124536249.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124936970.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124578268.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124624544.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124376870.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124375458.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125258364.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124477911.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_1.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124666224.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_1.bin.gz.csv
+Processing instance: er_8388608_1_2.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125578090.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124865643.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124803265.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124708640.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125257386.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125534854.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125338583.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125524354.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125247161.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_2.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124973052.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_2.bin.gz.csv
+Processing instance: er_8388608_1_3.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124634902.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123680209.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124623159.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125070918.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123954619.0000012
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123273361.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124132518.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124439173.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124215963.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_3.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124221292.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_3.bin.gz.csv
+Processing instance: er_8388608_1_4.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125157006.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125121778.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125362422.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124988361.000001
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124587655.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125322289.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124892213.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125399741.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124647901.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_4.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125637413.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_4.bin.gz.csv
+Processing instance: er_8388608_1_5.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123790617.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123936937.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124651660.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124372807.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124188328.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124869430.999999
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124385516.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124460030.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124422430.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_5.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124076743.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_5.bin.gz.csv
+Processing instance: er_8388608_1_6.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124330357.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124918830.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124340976.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125399812.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125120200.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124849573.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124404485.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124219526.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125266157.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_6.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125401496.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_6.bin.gz.csv
+Processing instance: er_8388608_1_7.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125339212.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124557445.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124905852.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124877465.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125016738.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124946005.9999986
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124575495.9999995
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124407541.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125343558.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_7.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124855522.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_7.bin.gz.csv
+Processing instance: er_8388608_1_8.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123608968.000001
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124843872.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124907092.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124851911.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124769206.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124595669.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124246639.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2123753944.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124281414.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_8.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124645880.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_8.bin.gz.csv
+Processing instance: er_8388608_1_9.bin.gz
+  Seed 1/10 (seed=42)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124654699.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 2/10 (seed=43)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124380470.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 3/10 (seed=44)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124431936.0
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 4/10 (seed=45)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124943881.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 5/10 (seed=46)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124942332.0000002
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 6/10 (seed=47)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2125272810.0000007
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 7/10 (seed=48)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124877962.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 8/10 (seed=49)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124607233.9999998
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 9/10 (seed=50)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124620678.0000005
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+  Seed 10/10 (seed=51)
+Initialized SpecAdj solver (GPU sparse). Results will be saved under 'SpecAdj'.
+Parameters:
+  instance_name: er_8388608_1_9.bin.gz
+  dataset: erdos_renyi
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: 0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecAdj
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -2124965171.9999993
+Results saved to: results/erdos_renyi/SpecAdj/er_8388608_1_9.bin.gz.csv
+==================================================
+Execution Finished.
+✓ SpecAdj on erdos_renyi SUCCESS
+Completed 1 experiments in 6601 seconds

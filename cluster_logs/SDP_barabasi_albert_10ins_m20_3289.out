@@ -1,0 +1,371 @@
+Running solver: SDP
+Dataset: barabasi_albert_10ins_m20
+[GENERAL] Dataset: barabasi_albert_10ins_m20, -----------------------------------------------------------
+Running: SDP
+Solver: sdp
+Dataset: ba2
+==================================================
+Processing instance: ba_128_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_0.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.958583
+Best energy after 10 rounding trials: -27801.000000
+Total time: 25.0029s
+Results saved to: results/ba2/SDP/ba_128_1_0.csv
+Energy: -27801.000000
+Time: 25.0029s
+----------------------------------------
+Processing instance: ba_128_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_1.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.812419
+Best energy after 10 rounding trials: -27542.000000
+Total time: 21.7648s
+Results saved to: results/ba2/SDP/ba_128_1_1.csv
+Energy: -27542.000000
+Time: 21.7648s
+----------------------------------------
+Processing instance: ba_128_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_2.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.888905
+Best energy after 10 rounding trials: -28612.000000
+Total time: 24.4601s
+Results saved to: results/ba2/SDP/ba_128_1_2.csv
+Energy: -28612.000000
+Time: 24.4601s
+----------------------------------------
+Processing instance: ba_128_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_3.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -12.242051
+Best energy after 10 rounding trials: -29553.000000
+Total time: 27.2653s
+Results saved to: results/ba2/SDP/ba_128_1_3.csv
+Energy: -29553.000000
+Time: 27.2653s
+----------------------------------------
+Processing instance: ba_128_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_4.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -12.238053
+Best energy after 10 rounding trials: -29545.000000
+Total time: 24.2350s
+Results saved to: results/ba2/SDP/ba_128_1_4.csv
+Energy: -29545.000000
+Time: 24.2350s
+----------------------------------------
+Processing instance: ba_128_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_5.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -12.931484
+Best energy after 10 rounding trials: -29365.000000
+Total time: 24.4722s
+Results saved to: results/ba2/SDP/ba_128_1_5.csv
+Energy: -29365.000000
+Time: 24.4722s
+----------------------------------------
+Processing instance: ba_128_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_6.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.680127
+Best energy after 10 rounding trials: -29634.000000
+Total time: 27.1853s
+Results saved to: results/ba2/SDP/ba_128_1_6.csv
+Energy: -29634.000000
+Time: 27.1853s
+----------------------------------------
+Processing instance: ba_128_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_7.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.391349
+Best energy after 10 rounding trials: -29792.000000
+Total time: 27.1817s
+Results saved to: results/ba2/SDP/ba_128_1_7.csv
+Energy: -29792.000000
+Time: 27.1817s
+----------------------------------------
+Processing instance: ba_128_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_8.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.286569
+Best energy after 10 rounding trials: -28141.000000
+Total time: 21.5544s
+Results saved to: results/ba2/SDP/ba_128_1_8.csv
+Energy: -28141.000000
+Time: 21.5544s
+----------------------------------------
+Processing instance: ba_128_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_128_1_9.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -11.301540
+Best energy after 10 rounding trials: -28276.000000
+Total time: 24.6349s
+Results saved to: results/ba2/SDP/ba_128_1_9.csv
+Energy: -28276.000000
+Time: 24.6349s
+----------------------------------------
+Processing instance: ba_64_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_0.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.159973
+Best energy after 10 rounding trials: -12658.000000
+Total time: 1.1340s
+Results saved to: results/ba2/SDP/ba_64_1_0.csv
+Energy: -12658.000000
+Time: 1.1340s
+----------------------------------------
+Processing instance: ba_64_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_1.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -9.245831
+Best energy after 10 rounding trials: -12533.000000
+Total time: 0.9357s
+Results saved to: results/ba2/SDP/ba_64_1_1.csv
+Energy: -12533.000000
+Time: 0.9357s
+----------------------------------------
+Processing instance: ba_64_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_2.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.118253
+Best energy after 10 rounding trials: -13929.000000
+Total time: 0.9150s
+Results saved to: results/ba2/SDP/ba_64_1_2.csv
+Energy: -13929.000000
+Time: 0.9150s
+----------------------------------------
+Processing instance: ba_64_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_3.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.658857
+Best energy after 10 rounding trials: -13294.000000
+Total time: 0.8275s
+Results saved to: results/ba2/SDP/ba_64_1_3.csv
+Energy: -13294.000000
+Time: 0.8275s
+----------------------------------------
+Processing instance: ba_64_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_4.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.324565
+Best energy after 10 rounding trials: -12887.000000
+Total time: 0.8388s
+Results saved to: results/ba2/SDP/ba_64_1_4.csv
+Energy: -12887.000000
+Time: 0.8388s
+----------------------------------------
+Processing instance: ba_64_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_5.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.265117
+Best energy after 10 rounding trials: -15034.000000
+Total time: 0.9750s
+Results saved to: results/ba2/SDP/ba_64_1_5.csv
+Energy: -15034.000000
+Time: 0.9750s
+----------------------------------------
+Processing instance: ba_64_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_6.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.024772
+Best energy after 10 rounding trials: -12896.000000
+Total time: 0.9099s
+Results saved to: results/ba2/SDP/ba_64_1_6.csv
+Energy: -12896.000000
+Time: 0.9099s
+----------------------------------------
+Processing instance: ba_64_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_7.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -9.250957
+Best energy after 10 rounding trials: -13858.000000
+Total time: 0.9111s
+Results saved to: results/ba2/SDP/ba_64_1_7.csv
+Energy: -13858.000000
+Time: 0.9111s
+----------------------------------------
+Processing instance: ba_64_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_8.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -9.526701
+Best energy after 10 rounding trials: -13467.000000
+Total time: 0.9109s
+Results saved to: results/ba2/SDP/ba_64_1_8.csv
+Energy: -13467.000000
+Time: 0.9109s
+----------------------------------------
+Processing instance: ba_64_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized SDP solver (SDP with MOSEK). Results will be saved under 'SDP'.
+Parameters:
+  instance_name: ba_64_1_9.txt
+  dataset: ba2
+  random_seed: 42
+  verbose: False
+  num_rounding_trials: 10
+  run_name: SDP
+--------------------------------------------------
+SDP solved successfully. Objective value: -10.749749
+Best energy after 10 rounding trials: -13243.000000
+Total time: 0.9130s
+Results saved to: results/ba2/SDP/ba_64_1_9.csv
+Energy: -13243.000000
+Time: 0.9130s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ SDP on barabasi_albert_10ins_m20 SUCCESS
+Completed 1 experiments in 258 seconds

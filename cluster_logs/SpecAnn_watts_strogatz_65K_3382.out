@@ -1,0 +1,231 @@
+Running solver: SpecAnn
+Dataset: watts_strogatz_65K
+[GENERAL] Dataset: watts_strogatz_65K, -----------------------------------------------------------
+Running: SpecAnn
+Solver: spectral_annealing
+Dataset: watts_strogatz_65K
+==================================================
+Processing instance: ws_65536_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_0.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_0.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_0_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_1.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_1.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_1.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_1_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_2.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_2.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_2.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_2_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_3.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_3.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_3.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_3_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_4.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_4.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_4.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_4_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_5.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_5.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_5.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_5_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_6.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_6.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_6.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_6_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_7.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_7.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_7.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_7_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_8.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_8.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_8.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_8_alphas.csv (128 alpha values)
+Processing instance: ws_65536_1_9.txt
+  Seed 1/1 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: ws_65536_1_9.txt
+  dataset: watts_strogatz_65K
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/watts_strogatz_65K/SpecAnn/ws_65536_1_9.csv
+Alpha results saved to: results/watts_strogatz_65K/SpecAnn/alphas/ws_65536_1_9_alphas.csv (128 alpha values)
+==================================================
+Execution Finished.
+✓ SpecAnn on watts_strogatz_65K SUCCESS
+Completed 1 experiments in 49 seconds

@@ -1,0 +1,289 @@
+random_seed: 42
+num_seeds: 10
+
+SpecAnn-V2-Diagonal:
+  solver_name: "spectral_annealing_v2"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+    pred_mode: "diagonal"
+    pred_tol: 0.01
+
+SpecAnn-V2-Secant:
+  solver_name: "spectral_annealing_v2"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+    pred_mode: "secant"
+    pred_tol: 0.01
+
+SpecAnn-V2-Hybrid:
+  solver_name: "spectral_annealing_v2"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+    pred_mode: "hybrid"
+    pred_tol: 0.01
+
+bSB_1024:
+  solver_name: "SB"
+  params:
+    agents: 1024
+    mode: "ballistic"
+    heated: false
+
+dSB_1024:
+  solver_name: "SB"
+  params:
+    agents: 1024
+    mode: "discrete"
+    heated: false
+
+HbSB_1024:
+  solver_name: "SB"
+  params:
+    agents: 1024
+    mode: "ballistic"
+    heated: true
+
+HdSB_1024:
+  solver_name: "SB"
+  params:
+    agents: 1024
+    mode: "discrete"
+    heated: true
+
+
+TS_100:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 100
+
+TS_1000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 1000
+
+GREEDY_100:
+  solver_name: "greedy"
+  params:
+    n_trials: 100
+
+GREEDY_1000:
+  solver_name: "greedy"
+  params:
+    n_trials: 1000
+
+SpecAnn:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+
+SpecAnn-LS:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: false
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+
+SpecAnn-cold:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    disable_warm_start: true
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+
+SpecAnn-64:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 64
+
+SpecAnn-FastEig:       
+  solver_name: "spectral_annealing_no_fast_eig"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn-FastL-FastEig:       
+  solver_name: "spectral_annealing_no_fast_LS_no_fast_eig"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn-FastL:        
+  solver_name: "spectral_annealing_no_fast_LS"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn-Trevisan:        
+  solver_name: "spectral_annealing_trevisan"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    trevisan_threshold: 0.05
+    trevisan_max_depth: 3
+    trevisan_num_trials: 1
+
+SpecAdj:                     #A0_gpu                         
+  solver_name: "spec_adj"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+onlyLS:
+  solver_name: "onlyLS"
+  params:
+    n_random_solutions: 128
+    max_local_iterations: 1000
+    precision: 32
+
+SpecAnn-NCV:
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    eigsh_ncv: 15
+    precision: 32
+
+SpecSignedLap:                     #A1_gpu
+  solver_name: "spec_signed_lap"
+  params:
+    mode: 1
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SDP:
+  solver_name: "sdp"
+  params:
+    verbose: false
+    num_rounding_trials: 10
+
+SPONGE:
+  solver_name: "sponge"
+  params:
+    tau_p: 1.0
+    tau_n: 1.0
+    use_sym: true
+
+QQA:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null  # null means auto-detect (cuda if available, else cpu)
+
+SA_50:
+  solver_name: "SA"
+  params:
+    num_reads: 50
+
+SA_100:
+  solver_name: "SA"
+  params:
+    num_reads: 100
+
+SA_1000:
+  solver_name: "SA"
+  params:
+    num_reads: 1000
+    
+GUROBI_1:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 60
+
+GUROBI_15:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 900
+
+GUROBI_60:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 3600
+
+GUROBI_120:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 7200 
+
+PT_100:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 100
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_1000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 1000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+

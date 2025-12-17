@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+wikielec.ising.txt,real_world,42,SpecSignedLap,-56341.0,0.0347449779510498,True,33,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,43,SpecSignedLap,-54979.0,0.0262684822082519,True,21,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,44,SpecSignedLap,-71403.0,0.0292665958404541,True,31,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,45,SpecSignedLap,-71368.99999999999,0.0355422496795654,True,53,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,46,SpecSignedLap,-57636.99999999999,0.0303802490234375,True,37,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,47,SpecSignedLap,-71356.99999999997,0.0318603515625,True,41,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,48,SpecSignedLap,-55141.0,0.0278322696685791,True,28,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,49,SpecSignedLap,-56301.0,0.030858039855957,True,38,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,50,SpecSignedLap,-54849.0,0.0234434604644775,True,14,1.0,1.0,1,2025-11-24 06:50:57
+wikielec.ising.txt,real_world,51,SpecSignedLap,-71307.0,0.02687358856201172,True,25,1.0,1.0,1,2025-11-24 06:50:57

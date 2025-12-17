@@ -1,0 +1,584 @@
+Running solver: SpecSignedLap
+Dataset: real_world
+[GENERAL] Dataset: real_world, -----------------------------------------------------------
+Running: SpecSignedLap
+Solver: spec_signed_lap
+Dataset: real_world
+==================================================
+Processing instance: epinions.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589679.0000000001
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589679.000000, Time: 0.3303s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -590089.0000000001
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -590089.000000, Time: 0.0600s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -588929.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -588929.000000, Time: 0.0609s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589565.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589565.000000, Time: 0.0597s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589921.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589921.000000, Time: 0.0560s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589373.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589373.000000, Time: 0.0424s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589151.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589151.000000, Time: 0.0427s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -588947.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -588947.000000, Time: 0.0423s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -588759.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -588759.000000, Time: 0.0432s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -589483.0
+Results saved to: results/real_world/SpecSignedLap/epinions.ising.csv
+Alpha1 solver completed. Energy: -589483.000000, Time: 0.0423s
+Processing instance: slashdot.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -338344.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -338344.000000, Time: 0.0481s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -339108.0
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -339108.000000, Time: 0.0405s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -339264.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -339264.000000, Time: 0.0420s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -338852.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -338852.000000, Time: 0.0427s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -339138.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -339138.000000, Time: 0.0413s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -339286.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -339286.000000, Time: 0.0417s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -339342.0
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -339342.000000, Time: 0.0425s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -338966.00000000006
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -338966.000000, Time: 0.0422s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -338732.0
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -338732.000000, Time: 0.0414s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -338522.0
+Results saved to: results/real_world/SpecSignedLap/slashdot.ising.csv
+Alpha1 solver completed. Energy: -338522.000000, Time: 0.0436s
+Processing instance: wikielec.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -56341.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -56341.000000, Time: 0.0347s
+  Seed 2/10 (seed=43)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -54979.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -54979.000000, Time: 0.0263s
+  Seed 3/10 (seed=44)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71403.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -71403.000000, Time: 0.0293s
+  Seed 4/10 (seed=45)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71368.99999999999
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -71369.000000, Time: 0.0355s
+  Seed 5/10 (seed=46)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -57636.99999999999
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -57637.000000, Time: 0.0304s
+  Seed 6/10 (seed=47)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71356.99999999997
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -71357.000000, Time: 0.0319s
+  Seed 7/10 (seed=48)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -55141.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -55141.000000, Time: 0.0278s
+  Seed 8/10 (seed=49)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -56301.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -56301.000000, Time: 0.0309s
+  Seed 9/10 (seed=50)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -54849.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -54849.000000, Time: 0.0234s
+  Seed 10/10 (seed=51)
+Initialized SpecSignedLap solver (GPU sparse) with alpha = 1.0. Results will be saved under 'SpecSignedLap'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 1
+  beta: None
+  alpha: 1.0
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  run_name: SpecSignedLap
+--------------------------------------------------
+Using local search with 1000 iterations
+Local search improved energy to -71307.0
+Results saved to: results/real_world/SpecSignedLap/wikielec.ising.csv
+Alpha1 solver completed. Energy: -71307.000000, Time: 0.0269s
+==================================================
+Execution Finished.
+✓ SpecSignedLap on real_world SUCCESS
+Completed 1 experiments in 5 seconds

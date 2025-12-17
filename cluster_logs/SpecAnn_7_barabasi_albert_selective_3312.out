@@ -1,0 +1,212 @@
+Running solver: SpecAnn_7
+Dataset: barabasi_albert_selective
+[GENERAL] Dataset: barabasi_albert_selective, -----------------------------------------------------------
+Running: SpecAnn_7
+Solver: spectral_annealing
+Dataset: barabasi_albert_selective
+==================================================
+Processing instance: ba_1024_1_0.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 42
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 2/10 (seed=43)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 43
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 3/10 (seed=44)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 44
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 4/10 (seed=45)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 45
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 5/10 (seed=46)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 46
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 6/10 (seed=47)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 47
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 7/10 (seed=48)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 48
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 8/10 (seed=49)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 49
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 9/10 (seed=50)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 50
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+  Seed 10/10 (seed=51)
+Initialized SpecAnn_7 solver (GPU sparse). Results will be saved under 'SpecAnn_7'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective
+  random_seed: 51
+  mode: 7
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn_7
+--------------------------------------------------
+Applying local search to 64 unique solutions (out of 64 total)
+General results saved to: results/barabasi_albert_selective/SpecAnn_7/ba_1024_1_0.csv
+Alpha results saved to: results/barabasi_albert_selective/SpecAnn_7/alphas/ba_1024_1_0_alphas.csv (64 alpha values)
+==================================================
+Execution Finished.
+✓ SpecAnn_7 on barabasi_albert_selective SUCCESS
+Completed 1 experiments in 12 seconds

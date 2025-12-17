@@ -1,0 +1,644 @@
+Running solver: SpecAnn
+Dataset: real_world
+[GENERAL] Dataset: real_world, -----------------------------------------------------------
+Running: SpecAnn
+Solver: spectral_annealing
+Dataset: real_world
+==================================================
+Processing instance: epinions.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 2/10 (seed=43)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 3/10 (seed=44)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 4/10 (seed=45)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 5/10 (seed=46)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 6/10 (seed=47)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 7/10 (seed=48)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 8/10 (seed=49)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 9/10 (seed=50)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+  Seed 10/10 (seed=51)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: epinions.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/epinions.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/epinions.ising_alphas.csv (128 alpha values)
+Processing instance: slashdot.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 2/10 (seed=43)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 3/10 (seed=44)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 4/10 (seed=45)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 5/10 (seed=46)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 6/10 (seed=47)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 7/10 (seed=48)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 8/10 (seed=49)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 9/10 (seed=50)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+  Seed 10/10 (seed=51)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: slashdot.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 128 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/slashdot.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/slashdot.ising_alphas.csv (128 alpha values)
+Processing instance: wikielec.ising.txt
+  Seed 1/10 (seed=42)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 42
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 2/10 (seed=43)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 43
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 3/10 (seed=44)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 44
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 4/10 (seed=45)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 45
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 5/10 (seed=46)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 46
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 6/10 (seed=47)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 47
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 7/10 (seed=48)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 48
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 8/10 (seed=49)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 49
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 9/10 (seed=50)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 50
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+  Seed 10/10 (seed=51)
+Initialized SpecAnn solver (GPU sparse). Results will be saved under 'SpecAnn'.
+Parameters:
+  instance_name: wikielec.ising.txt
+  dataset: real_world
+  random_seed: 51
+  mode: 0
+  beta: None
+  alpha: None
+  use_local_search: True
+  max_local_iterations: 1000
+  eigsh_tol: 1e-06
+  eigsh_maxiter: 1000
+  eigsh_ncv: None
+  disable_warm_start: False
+  precision: 32 bits (<class 'numpy.float32'>)
+  run_name: SpecAnn
+--------------------------------------------------
+Applying local search to 103 unique solutions (out of 128 total)
+General results saved to: results/real_world/SpecAnn/wikielec.ising.csv
+Alpha results saved to: results/real_world/SpecAnn/alphas/wikielec.ising_alphas.csv (128 alpha values)
+==================================================
+Execution Finished.
+✓ SpecAnn on real_world SUCCESS
+Completed 1 experiments in 60 seconds

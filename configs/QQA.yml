@@ -1,0 +1,378 @@
+random_seed: 42
+num_seeds: 1
+
+
+
+SB_50: 
+  solver_name: "SB"
+  params:
+    agents: 50
+
+SB_100:
+  solver_name: "SB"
+  params:
+    agents: 100
+
+SB_200:
+  solver_name: "SB"
+  params:
+    agents: 200
+
+SB_1000:
+  solver_name: "SB"
+  params:
+    agents: 1000
+
+TS_100:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 100
+
+TS_1000:
+  solver_name: "tabu_search"
+  params:
+    num_reads: 1000
+
+GREEDY_100:
+  solver_name: "greedy"
+  params:
+    n_trials: 100
+
+GREEDY_1000:
+  solver_name: "greedy"
+  params:
+    n_trials: 1000
+
+SpecAnn:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 32
+
+SpecAnn-64:       
+  solver_name: "spectral_annealing"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+    precision: 64
+
+SpecAnn-FastEig:       
+  solver_name: "spectral_annealing_no_fast_eig"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn-FastL-FastEig:       
+  solver_name: "spectral_annealing_no_fast_LS_no_fast_eig"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAnn-FastL:        
+  solver_name: "spectral_annealing_no_fast_LS"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecAdj:                     #A0_gpu                         
+  solver_name: "spec_adj"
+  params:
+    mode: 0
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SpecSignedLap:                     #A1_gpu
+  solver_name: "spec_signed_lap"
+  params:
+    mode: 1
+    beta: null
+    use_local_search: true
+    eigsh_tol: 1e-6
+    eigsh_maxiter: 1000
+
+SDP:
+  solver_name: "sdp"
+  params:
+    verbose: false
+    num_rounding_trials: 10
+
+SPONGE:
+  solver_name: "sponge"
+  params:
+    tau_p: 1.0
+    tau_n: 1.0
+    use_sym: true
+
+# QQA (Quasi-Quantum Annealing) Solver Parameters:
+#   sol_size (S): Number of parallel solutions in the batch (more = better exploration, slower)
+#   learning_rate: Learning rate for gradient updates (controls step size)
+#   temp (T): Temperature for Langevin noise injection (higher = more exploration)
+#   min_bg (γ_min), max_bg (γ_max): Background field range for annealing schedule (controls penalty strength)
+#   curve_rate (α): Penalty curve rate - MUST be an integer (non-integer causes NaN when x > 0.5)
+#   div_param: Diversity parameter (0-1, higher = more diversity in solutions)
+#   num_epochs: Total number of annealing iterations
+#   check_interval: Frequency of internal logging
+#   plot_dynamics: Whether to plot energy curves during optimization
+#   device: Device to use ('cpu', 'cuda', or null for auto-detect)
+
+QQA:
+  solver_name: "qqa"
+  params:
+    sol_size: 100          # configuración de referencia del README del paper
+    learning_rate: 1.0
+    temp: 0.001
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA1:
+  solver_name: "qqa"
+  params:
+    sol_size: 256          
+    learning_rate: 0.75
+    temp: 0.0005
+    min_bg: -3.0
+    max_bg: 0.05
+    curve_rate: 4.0
+    div_param: 0.25
+    num_epochs: 3500
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA2:
+  solver_name: "qqa"
+  params:
+    sol_size: 128
+    learning_rate: 1.2
+    temp: 0.0100        
+    min_bg: -2.5
+    max_bg: 0.05
+    curve_rate: 4
+    div_param: 0.18
+    num_epochs: 2500
+    check_interval: 400
+    plot_dynamics: false
+    device: null
+
+QQA3:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 0.9
+    temp: 0.0005
+    min_bg: -4.0       
+    max_bg: 0.0
+    curve_rate: 6.0
+    div_param: 0.15
+    num_epochs: 3500
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA4:
+  solver_name: "qqa"
+  params:
+    sol_size: 200
+    learning_rate: 1.0
+    temp: 0.002
+    min_bg: -3.0
+    max_bg: 0.1
+    curve_rate: 4.0
+    div_param: 0.40     
+    num_epochs: 2500
+    check_interval: 400
+    plot_dynamics: false
+    device: null
+
+QQA5:
+  solver_name: "qqa"
+  params:
+    sol_size: 128
+    learning_rate: 0.8
+    temp: 0.001
+    min_bg: -3.5
+    max_bg: 0.05
+    curve_rate: 5
+    div_param: 0.25
+    num_epochs: 6000     # schedule extendido como en experiments section
+    check_interval: 750
+    plot_dynamics: false
+    device: null
+
+
+
+QQA6:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0          # from paper: lr ∈ {1, 0.1, 0.01}
+    temp: 0.001                 # from paper: T = 0.001 (fixed)
+    min_bg: -2                   # from paper: γ_min = -2 (general)
+    max_bg: 0.1                  # from paper: γ_max = 0.1
+    curve_rate: 4
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA7:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 0.1           # from paper: lr ∈ {1, 0.1, 0.01}
+    temp: 0.001                  # from paper: T = 0.001 (fixed)
+    min_bg: -2                   # from paper: γ_min = -2 (general)
+    max_bg: 0.1                  # from paper: γ_max = 0.1
+    curve_rate: 4
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA8:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 0.01          # from paper: lr ∈ {1, 0.1, 0.01}
+    temp: 0.001                   # from paper: T = 0.001 (fixed)
+    min_bg: -2                    # from paper: γ_min = -2 (general)
+    max_bg: 0.1                   # from paper: γ_max = 0.1
+    curve_rate: 4
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA9:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001                   # from paper: T = 0.001 (fixed)
+    min_bg: -20                   # from paper: γ_min = -20 (Max Cut large graphs)
+    max_bg: 0.1                   # from paper: γ_max = 0.1
+    curve_rate: 4
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+QQA10:
+  solver_name: "qqa"
+  params:
+    sol_size: 100
+    learning_rate: 1.0
+    temp: 0.001                   # from paper: T = 0.001 (fixed)
+    min_bg: -5                    # from paper: γ_min = -5 (Max Cut other graphs)
+    max_bg: 0.1                   # from paper: γ_max = 0.1
+    curve_rate: 4
+    div_param: 0.2
+    num_epochs: 3000
+    check_interval: 500
+    plot_dynamics: false
+    device: null
+
+SA_50:
+  solver_name: "SA"
+  params:
+    num_reads: 50
+
+SA_100:
+  solver_name: "SA"
+  params:
+    num_reads: 100
+
+SA_1000:
+  solver_name: "SA"
+  params:
+    num_reads: 1000
+    
+GUROBI_1:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 60
+
+GUROBI_15:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 900
+
+GUROBI_60:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 3600
+
+GUROBI_120:
+  solver_name: "gurobi"
+  params:
+    num_threads: 1
+    time_limit: 7200 
+
+PT_100:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 100
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+PT_1000:
+  solver_name: "parallel_tempering"
+  params:
+    num_pt_steps: 1000
+    num_replicas: 10
+    num_sweeps: 100
+    beta_min: 0.01
+    beta_max: 1.0
+
+# iSCO - Quick test configuration (fast, for correctness checking)
+isco:
+  solver_name: "isco"
+  params:
+    batch_size: 8
+    chain_length: 1000
+    init_temperature: 1.5
+    final_temperature: 0.01
+    decay_rate: 0.15
+    t_schedule: "exp_decay"
+    num_flips: 1
+    adaptive: true
+    target_acceptance_rate: 0.574
+    balancing_fn_type: "SQRT"
+    approx_with_grad: true
+    log_every_steps: 200
+    save_samples: false
+
+

@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,precision,timestamp
+ba_128_1_4.txt,barabasi_albert_10ins_m20,42,SpecAnn-NCV,-32171.0,1.5958385467529297,True,40,0.0,1.0,0,32,2025-11-19 21:16:13
+ba_128_1_4.txt,barabasi_albert_10ins_m20,43,SpecAnn-NCV,-32171.0,1.5905067920684814,True,24,0.1254911610276317,1.0,0,32,2025-11-19 21:16:15
+ba_128_1_4.txt,barabasi_albert_10ins_m20,44,SpecAnn-NCV,-32171.0,1.5993235111236572,True,57,0.0,1.0,0,32,2025-11-19 21:16:16
+ba_128_1_4.txt,barabasi_albert_10ins_m20,45,SpecAnn-NCV,-32171.0,1.5932552814483645,True,32,0.1254911610276317,1.0,0,32,2025-11-19 21:16:18
+ba_128_1_4.txt,barabasi_albert_10ins_m20,46,SpecAnn-NCV,-32171.0,1.6007983684539795,True,32,0.0,1.0,0,32,2025-11-19 21:16:20
+ba_128_1_4.txt,barabasi_albert_10ins_m20,47,SpecAnn-NCV,-32171.0,1.5859341621398926,True,21,0.0,1.0,0,32,2025-11-19 21:16:21
+ba_128_1_4.txt,barabasi_albert_10ins_m20,48,SpecAnn-NCV,-32171.0,1.5871613025665283,True,25,0.1254911610276317,1.0,0,32,2025-11-19 21:16:23
+ba_128_1_4.txt,barabasi_albert_10ins_m20,49,SpecAnn-NCV,-32171.0,1.5942270755767822,True,29,0.0,1.0,0,32,2025-11-19 21:16:25
+ba_128_1_4.txt,barabasi_albert_10ins_m20,50,SpecAnn-NCV,-32171.0,1.6004638671875,True,36,0.0,1.0,0,32,2025-11-19 21:16:26
+ba_128_1_4.txt,barabasi_albert_10ins_m20,51,SpecAnn-NCV,-32170.999999999996,1.5984833240509033,True,37,0.12549116102763172,1.0,0,32,2025-11-19 21:16:28

@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,qqa_best_obj,qqa_runtime,sol_size,learning_rate,temp,min_bg,max_bg,curve_rate,div_param,num_epochs,check_interval,device,timestamp
+er_128_1_7.txt,erdos_renyi_10ins_m20,42,QQA,-34042.0,6.171313047409058,-34042.0,6.168480634689331,100,1.0,0.001,-3.0,0.1,4.0,0.2,3000,500,cuda,2025-11-21 15:13:12

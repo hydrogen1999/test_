@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+er_8192_1_2.txt,erdos_renyi_10ins_m20,42,SpecSignedLap,-2212620.9999999995,0.0634186267852783,True,68,1.0,1.0,1,2025-11-21 04:25:19
+er_8192_1_2.txt,erdos_renyi_10ins_m20,43,SpecSignedLap,-2211587.0,0.0532588958740234,True,39,1.0,1.0,1,2025-11-21 04:25:19
+er_8192_1_2.txt,erdos_renyi_10ins_m20,44,SpecSignedLap,-2208351.0,0.0593373775482177,True,61,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,45,SpecSignedLap,-2210439.0,0.0574562549591064,True,53,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,46,SpecSignedLap,-2201237.0,0.0544233322143554,True,45,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,47,SpecSignedLap,-2206907.0,0.0533132553100585,True,41,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,48,SpecSignedLap,-2214929.0,0.0545756816864013,True,43,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,49,SpecSignedLap,-2219749.0,0.0621185302734375,True,52,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,50,SpecSignedLap,-2208369.0,0.0519318580627441,True,36,1.0,1.0,1,2025-11-21 04:25:20
+er_8192_1_2.txt,erdos_renyi_10ins_m20,51,SpecSignedLap,-2212531.0,0.059015512466430664,True,43,1.0,1.0,1,2025-11-21 04:25:20

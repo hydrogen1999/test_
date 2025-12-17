@@ -1,0 +1,1265 @@
+Running solver: QQA10
+Dataset: barabasi_albert_selective_QQA
+[GENERAL] Dataset: barabasi_albert_selective_QQA, -----------------------------------------------------------
+Running: QQA10
+Solver: qqa
+Dataset: barabasi_albert_selective_QQA
+==================================================
+Processing instance: ba_1024_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_1024_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=1025, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -45581.0000
+  Mean(Loss)       : -475.6484
+  Mean(Penalty)    : 820.8723
+  BG               : -5.0000
+  DIV Value        : 295.0523
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239954.9531
+  Mean(Penalty)    : 1.0880
+  BG               : -4.1500
+  DIV Value        : 512.9156
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239973.6406
+  Mean(Penalty)    : 0.2050
+  BG               : -3.3000
+  DIV Value        : 513.0565
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239973.5938
+  Mean(Penalty)    : 0.0184
+  BG               : -2.4500
+  DIV Value        : 513.0846
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239973.5938
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 513.0871
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239973.5938
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 513.0871
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -251585.0000
+  Mean(Loss)       : -239973.5938
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 513.0871
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -251585.0000
+RUNTIME         : 7.22 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 15 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -251585.000000
+[DEBUG] QQA reported best_obj: -251585.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -251585.000000
+QQA finished. Best energy: -251585.000000
+Best objective (QQA loss): -251585.000000
+Runtime reported by QQA: 7.2194s
+Total wall-clock time: 7.6099s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_1024_1_0.csv
+Energy: -251585.000000
+Time: 7.6099s
+----------------------------------------
+Processing instance: ba_128_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_128_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=129, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -11777.0000
+  Mean(Loss)       : -9.2885
+  Mean(Penalty)    : 103.3528
+  BG               : -5.0000
+  DIV Value        : 37.0730
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27342.8652
+  Mean(Penalty)    : 0.1196
+  BG               : -4.1500
+  DIV Value        : 64.5913
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27345.3555
+  Mean(Penalty)    : 0.0183
+  BG               : -3.3000
+  DIV Value        : 64.6087
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27345.3594
+  Mean(Penalty)    : 0.0000
+  BG               : -2.4500
+  DIV Value        : 64.6112
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27345.3594
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 64.6112
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27345.3594
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 64.6112
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -30557.0000
+  Mean(Loss)       : -27345.3594
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 64.6112
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -30557.0000
+RUNTIME         : 6.21 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 56 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -30557.000000
+[DEBUG] QQA reported best_obj: -30557.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -30557.000000
+QQA finished. Best energy: -30557.000000
+Best objective (QQA loss): -30557.000000
+Runtime reported by QQA: 6.2056s
+Total wall-clock time: 6.2088s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_128_1_0.csv
+Energy: -30557.000000
+Time: 6.2088s
+----------------------------------------
+Processing instance: ba_16384_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_16384_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=16385, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -438088.0000
+  Mean(Loss)       : 322.7454
+  Mean(Penalty)    : 13115.8828
+  BG               : -5.0000
+  DIV Value        : 4721.2388
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -3920052.0000
+  Mean(Loss)       : -3860307.7500
+  Mean(Penalty)    : 20.8231
+  BG               : -4.1500
+  DIV Value        : 8193.1855
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -3931582.0000
+  Mean(Loss)       : -3861507.0000
+  Mean(Penalty)    : 4.6833
+  BG               : -3.3000
+  DIV Value        : 8195.6836
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -3931582.0000
+  Mean(Loss)       : -3861512.2500
+  Mean(Penalty)    : 0.1855
+  BG               : -2.4500
+  DIV Value        : 8196.3447
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -3931582.0000
+  Mean(Loss)       : -3861512.2500
+  Mean(Penalty)    : 0.0041
+  BG               : -1.6000
+  DIV Value        : 8196.3711
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -3931582.0000
+  Mean(Loss)       : -3861512.2500
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 8196.3711
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -3931582.0000
+  Mean(Loss)       : -3861512.2500
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 8196.3711
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -3931582.0000
+RUNTIME         : 17.84 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 39 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -3931582.000000
+[DEBUG] QQA reported best_obj: -3931582.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -3931582.000000
+QQA finished. Best energy: -3931582.000000
+Best objective (QQA loss): -3931582.000000
+Runtime reported by QQA: 17.8405s
+Total wall-clock time: 17.8637s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_16384_1_0.csv
+Energy: -3931582.000000
+Time: 17.8637s
+----------------------------------------
+Processing instance: ba_2048_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_2048_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=2049, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -82213.0000
+  Mean(Loss)       : -215.1052
+  Mean(Penalty)    : 1640.5725
+  BG               : -5.0000
+  DIV Value        : 590.0806
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -502113.0000
+  Mean(Loss)       : -482642.7188
+  Mean(Penalty)    : 2.5114
+  BG               : -4.1500
+  DIV Value        : 1025.2894
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -502117.0000
+  Mean(Loss)       : -482657.0938
+  Mean(Penalty)    : 0.5898
+  BG               : -3.3000
+  DIV Value        : 1025.6017
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -502117.0000
+  Mean(Loss)       : -482657.1562
+  Mean(Penalty)    : 0.0434
+  BG               : -2.4500
+  DIV Value        : 1025.6824
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -502117.0000
+  Mean(Loss)       : -482657.1562
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 1025.6885
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -502117.0000
+  Mean(Loss)       : -482657.1562
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 1025.6885
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -502117.0000
+  Mean(Loss)       : -482657.1562
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 1025.6885
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -502117.0000
+RUNTIME         : 6.71 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 89 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -502117.000000
+[DEBUG] QQA reported best_obj: -502117.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -502117.000000
+QQA finished. Best energy: -502117.000000
+Best objective (QQA loss): -502117.000000
+Runtime reported by QQA: 6.7133s
+Total wall-clock time: 6.7177s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_2048_1_0.csv
+Energy: -502117.000000
+Time: 6.7177s
+----------------------------------------
+Processing instance: ba_256_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_256_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=257, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -19148.0000
+  Mean(Loss)       : -229.5561
+  Mean(Penalty)    : 205.8813
+  BG               : -5.0000
+  DIV Value        : 73.9058
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58929.8516
+  Mean(Penalty)    : 0.2337
+  BG               : -4.1500
+  DIV Value        : 128.5917
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58932.9219
+  Mean(Penalty)    : 0.0431
+  BG               : -3.3000
+  DIV Value        : 128.6182
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58932.9219
+  Mean(Penalty)    : 0.0000
+  BG               : -2.4500
+  DIV Value        : 128.6244
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58932.9219
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 128.6244
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58932.9219
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 128.6244
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -64284.0000
+  Mean(Loss)       : -58932.9219
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 128.6244
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -64284.0000
+RUNTIME         : 6.21 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 58 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -64284.000000
+[DEBUG] QQA reported best_obj: -64284.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -64284.000000
+QQA finished. Best energy: -64284.000000
+Best objective (QQA loss): -64284.000000
+Runtime reported by QQA: 6.2106s
+Total wall-clock time: 6.2139s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_256_1_0.csv
+Energy: -64284.000000
+Time: 6.2139s
+----------------------------------------
+Processing instance: ba_32768_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_32768_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=32769, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -769007.0000
+  Mean(Loss)       : 2337.6106
+  Mean(Penalty)    : 26222.2500
+  BG               : -5.0000
+  DIV Value        : 9446.9766
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -7777851.0000
+  Mean(Loss)       : -7708953.0000
+  Mean(Penalty)    : 40.9881
+  BG               : -4.1500
+  DIV Value        : 16388.7539
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -7779219.0000
+  Mean(Loss)       : -7710368.5000
+  Mean(Penalty)    : 9.3411
+  BG               : -3.3000
+  DIV Value        : 16393.9258
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -7779219.0000
+  Mean(Loss)       : -7710388.0000
+  Mean(Penalty)    : 0.4649
+  BG               : -2.4500
+  DIV Value        : 16395.2422
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -7779219.0000
+  Mean(Loss)       : -7710388.0000
+  Mean(Penalty)    : 0.0062
+  BG               : -1.6000
+  DIV Value        : 16395.3066
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -7779219.0000
+  Mean(Loss)       : -7710388.0000
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 16395.3086
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -7779219.0000
+  Mean(Loss)       : -7710388.0000
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 16395.3086
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -7779219.0000
+RUNTIME         : 33.06 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 53 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -7779219.000000
+[DEBUG] QQA reported best_obj: -7779219.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -7779219.000000
+QQA finished. Best energy: -7779219.000000
+Best objective (QQA loss): -7779219.000000
+Runtime reported by QQA: 33.0627s
+Total wall-clock time: 33.1071s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_32768_1_0.csv
+Energy: -7779219.000000
+Time: 33.1071s
+----------------------------------------
+Processing instance: ba_4096_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_4096_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=4097, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -158194.0000
+  Mean(Loss)       : -464.5245
+  Mean(Penalty)    : 3278.5378
+  BG               : -5.0000
+  DIV Value        : 1181.0166
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -982284.0000
+  Mean(Loss)       : -963039.9375
+  Mean(Penalty)    : 5.0910
+  BG               : -4.1500
+  DIV Value        : 2049.2368
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -982286.0000
+  Mean(Loss)       : -963140.3125
+  Mean(Penalty)    : 1.1851
+  BG               : -3.3000
+  DIV Value        : 2049.8418
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -982286.0000
+  Mean(Loss)       : -963140.3125
+  Mean(Penalty)    : 0.0393
+  BG               : -2.4500
+  DIV Value        : 2050.0105
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -982286.0000
+  Mean(Loss)       : -963140.3125
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 2050.0154
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -982286.0000
+  Mean(Loss)       : -963140.3125
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 2050.0154
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -982286.0000
+  Mean(Loss)       : -963140.3125
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 2050.0154
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -982286.0000
+RUNTIME         : 7.41 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 65 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -982286.000000
+[DEBUG] QQA reported best_obj: -982286.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -982286.000000
+QQA finished. Best energy: -982286.000000
+Best objective (QQA loss): -982286.000000
+Runtime reported by QQA: 7.4064s
+Total wall-clock time: 7.4126s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_4096_1_0.csv
+Energy: -982286.000000
+Time: 7.4126s
+----------------------------------------
+Processing instance: ba_512_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_512_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=513, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -25140.0000
+  Mean(Loss)       : -33.1066
+  Mean(Penalty)    : 410.5082
+  BG               : -5.0000
+  DIV Value        : 147.7721
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119497.8125
+  Mean(Penalty)    : 0.5816
+  BG               : -4.1500
+  DIV Value        : 256.4465
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119515.2188
+  Mean(Penalty)    : 0.1051
+  BG               : -3.3000
+  DIV Value        : 256.5252
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119515.2031
+  Mean(Penalty)    : 0.0100
+  BG               : -2.4500
+  DIV Value        : 256.5399
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119515.2031
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 256.5413
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119515.2031
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 256.5413
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -131758.0000
+  Mean(Loss)       : -119515.2031
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 256.5413
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -131758.0000
+RUNTIME         : 6.20 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 6 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -131758.000000
+[DEBUG] QQA reported best_obj: -131758.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -131758.000000
+QQA finished. Best energy: -131758.000000
+Best objective (QQA loss): -131758.000000
+Runtime reported by QQA: 6.2001s
+Total wall-clock time: 6.2033s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_512_1_0.csv
+Energy: -131758.000000
+Time: 6.2033s
+----------------------------------------
+Processing instance: ba_64_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_64_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=65, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -7404.0000
+  Mean(Loss)       : -133.8973
+  Mean(Penalty)    : 51.9494
+  BG               : -5.0000
+  DIV Value        : 18.7071
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.4727
+  Mean(Penalty)    : 0.0435
+  BG               : -4.1500
+  DIV Value        : 32.5488
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.5000
+  Mean(Penalty)    : 0.0003
+  BG               : -3.3000
+  DIV Value        : 32.5549
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.5000
+  Mean(Penalty)    : 0.0000
+  BG               : -2.4500
+  DIV Value        : 32.5549
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.5000
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 32.5549
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.5000
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 32.5549
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -13868.0000
+  Mean(Loss)       : -12309.5000
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 32.5549
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -13868.0000
+RUNTIME         : 5.98 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 15 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -13868.000000
+[DEBUG] QQA reported best_obj: -13868.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -13868.000000
+QQA finished. Best energy: -13868.000000
+Best objective (QQA loss): -13868.000000
+Runtime reported by QQA: 5.9807s
+Total wall-clock time: 6.0006s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_64_1_0.csv
+Energy: -13868.000000
+Time: 6.0006s
+----------------------------------------
+Processing instance: ba_65536_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_65536_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=65537, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -1398237.0000
+  Mean(Loss)       : 740.7086
+  Mean(Penalty)    : 52442.8281
+  BG               : -5.0000
+  DIV Value        : 18893.2891
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -15558585.0000
+  Mean(Loss)       : -15425618.0000
+  Mean(Penalty)    : 81.1391
+  BG               : -4.1500
+  DIV Value        : 32774.4336
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -15563461.0000
+  Mean(Loss)       : -15428895.0000
+  Mean(Penalty)    : 18.3822
+  BG               : -3.3000
+  DIV Value        : 32784.6797
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -15563461.0000
+  Mean(Loss)       : -15428997.0000
+  Mean(Penalty)    : 0.8043
+  BG               : -2.4500
+  DIV Value        : 32787.2969
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -15563461.0000
+  Mean(Loss)       : -15428997.0000
+  Mean(Penalty)    : 0.0042
+  BG               : -1.6000
+  DIV Value        : 32787.4062
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -15563461.0000
+  Mean(Loss)       : -15428997.0000
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 32787.4062
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -15563461.0000
+  Mean(Loss)       : -15428997.0000
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 32787.4062
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -15563461.0000
+RUNTIME         : 111.26 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 84 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -15563461.000000
+[DEBUG] QQA reported best_obj: -15563461.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -15563461.000000
+QQA finished. Best energy: -15563461.000000
+Best objective (QQA loss): -15563461.000000
+Runtime reported by QQA: 111.2553s
+Total wall-clock time: 111.3419s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_65536_1_0.csv
+Energy: -15563461.000000
+Time: 111.3419s
+----------------------------------------
+Processing instance: ba_8192_1_0.txt
+  Seed 1/1 (seed=42)
+Initialized QQA10 solver (QQA). Results will be saved under 'QQA10'.
+Parameters:
+  instance_name: ba_8192_1_0.txt
+  dataset: barabasi_albert_selective_QQA
+  random_seed: 42
+  device: cuda
+  sol_size: 100
+  learning_rate: 1.0
+  temp: 0.001
+  min_bg: -5
+  max_bg: 0.1
+  curve_rate: 4
+  div_param: 0.2
+  num_epochs: 3000
+  check_interval: 500
+  plot_dynamics: False
+  run_name: QQA10
+--------------------------------------------------
+[DEBUG] Starting QQA with n=8193, sol_size=100, device=cuda
+
+============================== [LOG] ===============================
+[ EPOCH 0 ]
+  Best Loss So Far : -264143.0000
+  Mean(Loss)       : 25.6216
+  Mean(Penalty)    : 6558.6069
+  BG               : -5.0000
+  DIV Value        : 2360.6655
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 500 ]
+  Best Loss So Far : -1962589.0000
+  Mean(Loss)       : -1925729.5000
+  Mean(Penalty)    : 10.2847
+  BG               : -4.1500
+  DIV Value        : 4096.9541
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1000 ]
+  Best Loss So Far : -1962599.0000
+  Mean(Loss)       : -1926213.6250
+  Mean(Penalty)    : 2.2469
+  BG               : -3.3000
+  DIV Value        : 4098.2715
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 1500 ]
+  Best Loss So Far : -1962599.0000
+  Mean(Loss)       : -1926255.6250
+  Mean(Penalty)    : 0.0870
+  BG               : -2.4500
+  DIV Value        : 4098.6025
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2000 ]
+  Best Loss So Far : -1962599.0000
+  Mean(Loss)       : -1926255.6250
+  Mean(Penalty)    : 0.0000
+  BG               : -1.6000
+  DIV Value        : 4098.6143
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2500 ]
+  Best Loss So Far : -1962599.0000
+  Mean(Loss)       : -1926255.6250
+  Mean(Penalty)    : 0.0000
+  BG               : -0.7500
+  DIV Value        : 4098.6143
+  div_param        : 0.2000
+====================================================================
+
+============================== [LOG] ===============================
+[ EPOCH 2999 ]
+  Best Loss So Far : -1962599.0000
+  Mean(Loss)       : -1926255.6250
+  Mean(Penalty)    : 0.0000
+  BG               : 0.0983
+  DIV Value        : 4098.6143
+  div_param        : 0.2000
+====================================================================
+
+============================== [FINAL] ==============================
+FINAL BEST LOSS : -1962599.0000
+RUNTIME         : 10.47 s
+====================================================================
+sol_size:100, lr:1.0, temp:0.001, min_bg:-5, max_bg:0.1, curve_rate:4, div_param:0.2
+[DEBUG] Aggregated 200 candidates from sources {'best_sol_snapshot': 100, 'final_batch': 100}
+[DEBUG] x_batch dtype/device: torch.float32/cuda:0, range: [0.0000, 1.0000]
+[DEBUG] x_round range: [0.0000, 1.0000]
+[DEBUG] Best solution index: 21 (source=best_sol_snapshot)
+[DEBUG] Best loss (from rounded): -1962599.000000
+[DEBUG] QQA reported best_obj: -1962599.000000
+[DEBUG] spins_tensor range: [-1.0000, 1.0000]
+[DEBUG] Unique spin values: [-1.0, 1.0]
+[DEBUG] Final energy: -1962599.000000
+QQA finished. Best energy: -1962599.000000
+Best objective (QQA loss): -1962599.000000
+Runtime reported by QQA: 10.4679s
+Total wall-clock time: 10.4781s
+Results saved to: results/barabasi_albert_selective_QQA/QQA10/ba_8192_1_0.csv
+Energy: -1962599.000000
+Time: 10.4781s
+----------------------------------------
+==================================================
+Execution Finished.
+✓ QQA10 on barabasi_albert_selective_QQA SUCCESS
+Completed 1 experiments in 226 seconds

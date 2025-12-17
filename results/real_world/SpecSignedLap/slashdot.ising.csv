@@ -1,0 +1,11 @@
+instance_name,dataset,seed,solver_name,energy,time,local_search,local_search_iterations,alpha,beta,mode,timestamp
+slashdot.ising.txt,real_world,42,SpecSignedLap,-338344.00000000006,0.0480868816375732,True,27,1.0,1.0,1,2025-11-24 06:50:56
+slashdot.ising.txt,real_world,43,SpecSignedLap,-339108.0,0.0405068397521972,True,19,1.0,1.0,1,2025-11-24 06:50:56
+slashdot.ising.txt,real_world,44,SpecSignedLap,-339264.00000000006,0.0419743061065673,True,23,1.0,1.0,1,2025-11-24 06:50:56
+slashdot.ising.txt,real_world,45,SpecSignedLap,-338852.00000000006,0.0427455902099609,True,26,1.0,1.0,1,2025-11-24 06:50:56
+slashdot.ising.txt,real_world,46,SpecSignedLap,-339138.00000000006,0.0412824153900146,True,21,1.0,1.0,1,2025-11-24 06:50:57
+slashdot.ising.txt,real_world,47,SpecSignedLap,-339286.00000000006,0.0417132377624511,True,23,1.0,1.0,1,2025-11-24 06:50:57
+slashdot.ising.txt,real_world,48,SpecSignedLap,-339342.0,0.0425386428833007,True,26,1.0,1.0,1,2025-11-24 06:50:57
+slashdot.ising.txt,real_world,49,SpecSignedLap,-338966.00000000006,0.0422425270080566,True,25,1.0,1.0,1,2025-11-24 06:50:57
+slashdot.ising.txt,real_world,50,SpecSignedLap,-338732.0,0.0413563251495361,True,22,1.0,1.0,1,2025-11-24 06:50:57
+slashdot.ising.txt,real_world,51,SpecSignedLap,-338522.0,0.0435941219329834,True,29,1.0,1.0,1,2025-11-24 06:50:57

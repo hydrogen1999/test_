@@ -1,0 +1,2 @@
+instance_name,dataset,seed,solver_name,energy,time,sdp_objective,num_rounding_trials,timestamp
+ba_128_1_0.txt,barabasi_albert_10ins_m20,42,SDP,-27801.0,70.35780072212219,-72337.4679741229,10,2025-11-16 18:07:46

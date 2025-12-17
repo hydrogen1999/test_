@@ -1,0 +1,9 @@
+Running solver: SpecAnn
+Dataset: erdos_renyi_65K
+[GENERAL] Dataset: erdos_renyi_10ins_65K, -----------------------------------------------------------
+Running: SpecAnn
+Solver: spectral_annealing
+Dataset: erdos_renyi_10ins_65K
+==================================================
+Error: Dataset path does not exist: datasets/erdos_renyi_10ins_65K
+✗ SpecAnn on erdos_renyi_10ins_65K FAILED
