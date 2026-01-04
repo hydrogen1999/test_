@@ -21,6 +21,9 @@ from neal import SimulatedAnnealingSampler
 from dwave.embedding.chain_breaks import MinimizeEnergy, majority_vote, discard
 from dwave.samplers import SteepestDescentSolver
 
+from models.improved_spectral import ImprovedSpectralSolver
+import torch
+
 import gurobipy as gp
 
 import utils.ising_util as ising_util
@@ -671,3 +674,27 @@ def solve_qubo_problem(bqm: BinaryQuadraticModel,
 
     return solver.solve_bqm(bqm, solver_params)
 
+def run_improved_spectral(adj, args):
+    device = 'cuda' if torch.cuda.is_available() and args.gpu else 'cpu'
+    
+    solver = ImprovedSpectralSolver(adj, device=device)
+    
+    method = getattr(args, 'variant', 'grad')
+    
+    print(f"[*] Running Improved Spectral Solver with method: {method}")
+    
+    if method == 'sdp':
+        spins, cut = solver.solve_sdp_proxy(n_rounding=100)
+        
+    elif method == 'iter':
+        spins, cut = solver.solve_iterative(max_iter=getattr(args, 'max_iter', 50))
+        
+    else: 
+        solver.solve_sdp_proxy(n_rounding=10) 
+        
+        lr = getattr(args, 'lr', 0.05)
+        steps = getattr(args, 'steps', 100)
+        
+        spins, cut, _ = solver.solve_gradient_descent(lr=lr, steps=steps)
+
+    return cut, spins
