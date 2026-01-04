@@ -81,7 +81,7 @@ class ImprovedSpectralSolver(nn.Module):
         logger.info("--- Phase A: Running SDP Proxy (Signed Laplacian) ---")
         t0 = time.time()
 
-        abs_degrees = np.abs(self.adj_scipy).sum(axis=1).A1
+        abs_degrees = np.asarray(np.abs(self.adj_scipy).sum(axis=1)).flatten()
         d_inv_sqrt = 1.0 / np.sqrt(abs_degrees + 1e-8)
 
         def matvec(v):
