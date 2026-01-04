@@ -32,10 +32,17 @@ class ImprovedSpectralSolver(nn.Module):
         logger.info(f"Initializing Improved Solver on [{device}] for Graph N={self.n}")
 
         if sp.issparse(adjacency_matrix):
-            adjacency_matrix = 0.5 * (adjacency_matrix + adjacency_matrix.T)
-            self.adj_scipy = adjacency_matrix
+            # FIX: Symmetrize without halving weights (for Gset format)
+            # Gset format stores edges once (upper triangular), need A + A.T not 0.5*(A + A.T)
+            diff = (adjacency_matrix - adjacency_matrix.T)
+            if diff.nnz > 0:
+                logger.info("Graph is not symmetric. Symmetrizing (A = A + A.T)...")
+                tri_u = sp.triu(adjacency_matrix, k=1)
+                self.adj_scipy = tri_u + tri_u.T
+            else:
+                self.adj_scipy = adjacency_matrix
 
-            coo = adjacency_matrix.tocoo()
+            coo = self.adj_scipy.tocoo()
             indices = np.vstack((coo.row, coo.col))
             values = coo.data
 
