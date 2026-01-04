@@ -188,3 +188,152 @@ class ImprovedSpectralSolver(nn.Module):
 
         logger.info(f"Iterative Time: {time.time()-t0:.2f}s | Best Cut: {best_cut:.0f}")
         return best_spins, best_cut
+
+
+class ImprovedSpectralSolverWrapper:
+    """Wrapper class to integrate ImprovedSpectralSolver with the pipeline"""
+
+    def __init__(
+        self,
+        instance_name: str,
+        dataset: str,
+        random_seed: int = None,
+        variant: str = 'grad',  # 'grad', 'sdp', or 'iter'
+        lr: float = 0.05,
+        steps: int = 100,
+        max_iter: int = 50,
+        n_rounding: int = 100,
+        gpu: bool = True,
+        run_name: str = None,
+        **kwargs
+    ):
+        self.instance_name = instance_name
+        self.dataset = dataset
+        self.random_seed = random_seed
+        self.variant = variant
+        self.lr = lr
+        self.steps = steps
+        self.max_iter = max_iter
+        self.n_rounding = n_rounding
+        self.gpu = gpu
+
+        self.solver_name = run_name if run_name else "improved_spectral"
+
+        if random_seed is not None:
+            np.random.seed(random_seed)
+            torch.manual_seed(random_seed)
+            if torch.cuda.is_available():
+                torch.cuda.manual_seed(random_seed)
+
+        print(f"Initialized {self.solver_name} solver. Results will be saved under '{self.solver_name}'.")
+        print("Parameters:")
+        print(f"  instance_name: {self.instance_name}")
+        print(f"  dataset: {self.dataset}")
+        print(f"  random_seed: {self.random_seed}")
+        print(f"  variant: {self.variant}")
+        print(f"  lr: {self.lr}")
+        print(f"  steps: {self.steps}")
+        print(f"  max_iter: {self.max_iter}")
+        print(f"  n_rounding: {self.n_rounding}")
+        print(f"  gpu: {self.gpu}")
+        print(f"  run_name: {run_name}")
+        if kwargs:
+            print(f"  additional kwargs: {kwargs}")
+        print("-" * 50)
+
+    def solve(self, J: np.ndarray):
+        """Solve the MaxCut problem using Improved Spectral Solver"""
+        import pandas as pd
+        from pathlib import Path
+        from datetime import datetime
+
+        start_time = time.time()
+
+        # Convert to sparse if needed
+        if not sp.issparse(J):
+            J = sp.csr_matrix(J)
+
+        # Initialize solver
+        device = 'cuda' if torch.cuda.is_available() and self.gpu else 'cpu'
+        solver = ImprovedSpectralSolver(J, device=device)
+
+        logger.info(f"[*] Running Improved Spectral Solver with method: {self.variant}")
+
+        # Run appropriate method
+        if self.variant == 'sdp':
+            spins, cut = solver.solve_sdp_proxy(n_rounding=self.n_rounding)
+        elif self.variant == 'iter':
+            spins, cut = solver.solve_iterative(max_iter=self.max_iter)
+        else:  # 'grad' or default
+            # Warm start with SDP
+            solver.solve_sdp_proxy(n_rounding=10)
+            spins, cut, _ = solver.solve_gradient_descent(lr=self.lr, steps=self.steps)
+
+        time_taken = time.time() - start_time
+
+        # Convert cut to energy (energy = -cut for MaxCut)
+        energy = -cut
+
+        # Store results
+        self._store_results(
+            energy=energy,
+            spins=spins,
+            time_taken=time_taken,
+            cut=cut
+        )
+
+    def _store_results(self, energy: float, spins: np.ndarray, time_taken: float, cut: float):
+        """Store results to CSV file"""
+        import pandas as pd
+        from pathlib import Path
+        from datetime import datetime
+
+        results_dir = Path(f"results/{self.dataset}/{self.solver_name}")
+        results_dir.mkdir(parents=True, exist_ok=True)
+
+        instance_base = self.instance_name.replace('.txt', '')
+        csv_file = results_dir / f"{instance_base}.csv"
+
+        result_data = {
+            'instance_name': self.instance_name,
+            'dataset': self.dataset,
+            'seed': self.random_seed,
+            'solver_name': self.solver_name,
+            'energy': energy,
+            'cut': cut,
+            'time': time_taken,
+            'variant': self.variant,
+            'lr': self.lr,
+            'steps': self.steps,
+            'max_iter': self.max_iter,
+            'n_rounding': self.n_rounding,
+            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        }
+
+        if csv_file.exists():
+            df = pd.read_csv(csv_file)
+        else:
+            df = pd.DataFrame()
+
+        if not df.empty:
+            duplicate_mask = (
+                (df['instance_name'] == result_data['instance_name']) &
+                (df['dataset'] == result_data['dataset']) &
+                (df['seed'] == result_data['seed']) &
+                (df['solver_name'] == result_data['solver_name'])
+            )
+
+            if duplicate_mask.any():
+                df.loc[duplicate_mask, list(result_data.keys())] = list(result_data.values())
+            else:
+                df = pd.concat([df, pd.DataFrame([result_data])], ignore_index=True)
+        else:
+            df = pd.DataFrame([result_data])
+
+        df.to_csv(csv_file, index=False, encoding='utf-8')
+
+        logger.info(f"Results saved to: {csv_file}")
+        logger.info(f"Energy: {energy:.6f}")
+        logger.info(f"Cut: {cut:.0f}")
+        logger.info(f"Time: {time_taken:.4f}s")
+        logger.info("-" * 40)

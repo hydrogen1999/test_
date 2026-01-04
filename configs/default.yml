@@ -287,3 +287,26 @@ PT_1000:
     beta_min: 0.01
     beta_max: 1.0
 
+ImprovedSpec_Grad:
+  solver_name: "improved_spectral"
+  params:
+    variant: "grad"
+    lr: 0.05
+    steps: 100
+    n_rounding: 10
+    gpu: true
+
+ImprovedSpec_SDP:
+  solver_name: "improved_spectral"
+  params:
+    variant: "sdp"
+    n_rounding: 100
+    gpu: true
+
+ImprovedSpec_Iter:
+  solver_name: "improved_spectral"
+  params:
+    variant: "iter"
+    max_iter: 50
+    gpu: true
+

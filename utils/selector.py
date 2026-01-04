@@ -54,6 +54,9 @@ class SolverSelector:
 
             # Only LS
             'onlyLS': ('models.onlyLS', 'OnlyLS'),
+
+            # Improved Spectral solver
+            'improved_spectral': ('models.improved_spectral', 'ImprovedSpectralSolverWrapper'),
         }
     
     def get_solver_class(self, solver_name: str) -> Type:
