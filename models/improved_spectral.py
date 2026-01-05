@@ -78,9 +78,9 @@ def _symmetrize_gset(W: sp.csr_matrix) -> sp.csr_matrix:
 
 class ImprovedSpectralSolver(nn.Module):
     """
-    Implementation of IJCAI 2026 methodology with Perron-Frobenius fix.
+    Implementation of IJCAI 2026 methodology with Perron-Frobenius fix & Soft Constraints.
     - W (Adjacency) >= 0 is used for Cut Evaluation.
-    - A = -W is used for Spectral/Gradient steps to target the correct eigenvector.
+    - A = -W is used for Spectral/Gradient steps.
     """
     def __init__(
         self,
@@ -104,16 +104,15 @@ class ImprovedSpectralSolver(nn.Module):
             W.data *= -1
             W.eliminate_zeros()
 
-        # Strict Validation: Do not use abs(W) as a band-aid.
+        # Strict Validation
         if W.nnz > 0 and W.data.min() < 0:
-            # Print negative values for debugging
             neg_indices = np.where(W.data < 0)[0]
             logger.error(f"  -> Found {len(neg_indices)} negative edges. Example: {W.data[neg_indices[:5]]}")
             raise ValueError("W still has negative weights after sign fix. Check loader / conversion logic.")
 
         self.W_scipy: sp.csr_matrix = W
 
-        # Immediate Diagnostic Printing
+        # Diagnostic Printing
         logger.info("--- W Matrix Diagnostics (CHECK FOR CUT=73 BUG) ---")
         diag_val = float(W.diagonal().max()) if W.shape[0] > 0 else 0
         diff_nnz = (W - W.T).nnz
@@ -124,7 +123,7 @@ class ImprovedSpectralSolver(nn.Module):
         logger.info(f"  > sum(W): {w_sum:.2f}")
         logger.info(f"  > Symmetry diff nnz: {diff_nnz} (Should be 0)")
         logger.info(f"  > Diagonal max: {diag_val} (Should be 0)")
-
+        
         if w_sum < self.n:
             logger.warning("WARNING: sum(W) is suspiciously low. Check if Data Loader parsed the file correctly!")
 
@@ -139,7 +138,6 @@ class ImprovedSpectralSolver(nn.Module):
         i = torch.as_tensor(indices, dtype=torch.long)
         v = torch.as_tensor(values, dtype=torch.float32)
         shape = coo.shape
-        # Coalesce is crucial for some sparse operations
         self.A_torch = torch.sparse_coo_tensor(i, v, torch.Size(shape), device=self.device).coalesce()
 
         # Learnable parameters (log_w)
@@ -173,41 +171,45 @@ class ImprovedSpectralSolver(nn.Module):
 
     def solve_sdp_proxy(self, n_rounding: int = 100) -> Tuple[np.ndarray, float]:
         """
-        Initialize with Leading Eigenvector of A = -W (Normalized).
+        Phase A: Initialization using Signed Laplacian Proxy (A = -W).
         """
         logger.info("--- Phase A: Running SDP Proxy (A = -W) ---")
         t0 = time.time()
 
-        # Calculate degrees from W (positive)
         degrees = np.asarray(self.W_scipy.sum(axis=1)).reshape(-1)
         d_inv_sqrt = 1.0 / np.sqrt(degrees + 1e-8)
 
         def matvec(v):
             v = v * d_inv_sqrt
-            v = self.A_scipy.dot(v) # A = -W
+            v = self.A_scipy.dot(v)
             v = v * d_inv_sqrt
             return v
 
         op = LinearOperator((self.n, self.n), matvec=matvec)
 
-        # Find largest eigenvector of A (equivalent to smallest of Laplacian)
+        # Largest eigen of A = -W (Smallest of W)
         vals, vecs = eigsh(op, k=1, which='LA', tol=1e-4)
         v_sdp = vecs[:, 0]
 
         best_cut = -np.inf
         best_spins = None
 
-        # Improved Rounding: Random Thresholding
-        # Instead of adding noise and taking sign(0), we randomly slide the threshold t.
-        v_std = np.std(v_sdp)
+        # [FIX 1] Evaluate Candidate 1 (Pure Sign) first
+        sp0 = np.sign(v_sdp)
+        sp0[sp0 == 0] = 1
+        cut0 = SpectralObjectives.get_cut_value(self.W_scipy, sp0)
+        best_cut = cut0
+        best_spins = sp0.copy()
 
+        # Evaluate Candidate 2 (Random Threshold Rounding)
+        v_std = np.std(v_sdp)
         for _ in range(n_rounding):
             # Select threshold t from a normal distribution around 0
             t = np.random.normal(loc=0.0, scale=v_std + 1e-12)
-
+            
             # Threshold the vector at t
             spins = np.sign(v_sdp - t)
-            spins[spins == 0] = 1 # Handle zeros
+            spins[spins == 0] = 1 
 
             cut = SpectralObjectives.get_cut_value(self.W_scipy, spins)
             if cut > best_cut:
@@ -224,12 +226,14 @@ class ImprovedSpectralSolver(nn.Module):
     def solve_gradient_descent(
         self,
         lr: float = 0.05,
-        steps: int = 100,
-        warm_start_steps: int = 5
+        steps: int = 150,           
+        warm_start_steps: int = 10, 
+        alpha_reg: float = 0.02      # [TUNED] Small regularization to start
     ) -> Tuple[np.ndarray, float, List[float]]:
 
-        logger.info(f"--- Phase B: Running Gradient Descent (Steps={steps}, LR={lr}) ---")
-        optimizer = torch.optim.Adam([self.log_w], lr=lr)
+        logger.info(f"--- Phase B: Gradient Descent (Steps={steps}, LR={lr}, Alpha={alpha_reg}) ---")
+        
+        optimizer = torch.optim.AdamW([self.log_w], lr=lr, weight_decay=1e-4)
         scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=steps)
 
         best_cut = -np.inf
@@ -240,42 +244,83 @@ class ImprovedSpectralSolver(nn.Module):
         for i in range(steps):
             optimizer.zero_grad()
 
-            # Scale Stabilization: Clamp log_w
-            # Prevent w_vec from becoming too large or too small, causing numerical errors (NaN/Inf)
-            clamped_log_w = torch.clamp(self.log_w, -5.0, 5.0)
+            # Clamp parameters
+            clamped_log_w = torch.clamp(self.log_w, -4.0, 4.0)
             w_vec = torch.exp(clamped_log_w)
 
-            # Forward pass (Power method)
+            # 1. Forward Pass (Eigenvalue Approximation)
             v_approx = self._warm_start_power_iteration(w_vec, steps=warm_start_steps)
             self.cached_eigenvector.data = v_approx.data
 
-            # Calculate Loss (Envelope Theorem)
+            # 2. Loss Calculation (Envelope Theorem)
             v_fixed = v_approx.detach()
-
-            # Maximize Rayleigh Quotient => Minimize Negative
-            numerator = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
-            loss = -numerator
+            
+            # Term 1: Maximize Eigenvalue (of A = -W)
+            eigenvalue_proxy = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
+            
+            # Term 2: Diversity Regularization (Soft Constraint 1)
+            reg_loss = -torch.var(w_vec)
+            
+            # Total Loss
+            loss = -eigenvalue_proxy + alpha_reg * reg_loss
 
             loss.backward()
+            
+            # 3. Gradient Scaling (Soft Constraint 2 - From Spectral Annealing)
+            if self.log_w.grad is not None:
+                with torch.no_grad():
+                    v_sq = v_fixed.squeeze().pow(2)
+                    
+                    # Raw scaling: boost uncertain nodes
+                    scale_factor = 1.0 / (v_sq + 0.05) 
+                    
+                    # Normalize mean to 1 to preserve global learning rate
+                    scale_factor = scale_factor / (scale_factor.mean() + 1e-8)
+                    
+                    # [FIX 2] Clamp then Re-normalize
+                    scale_factor = torch.clamp(scale_factor, 0.1, 5.0)
+                    scale_factor = scale_factor / (scale_factor.mean() + 1e-8) # Ensure mean is 1.0 after clamp
+                    
+                    self.log_w.grad *= scale_factor
+
             optimizer.step()
             scheduler.step()
 
             loss_history.append(float(loss.item()))
 
-            # Evaluation Interval
+            # 4. Evaluation & Monitoring
             if i % 10 == 0 or i == steps - 1:
                 current_v_cpu = v_approx.detach().cpu().numpy().flatten()
-                spins = np.sign(current_v_cpu)
-                spins[spins == 0] = 1
+                
+                # Monitor Kurtosis
+                kurtosis = np.mean(current_v_cpu**4) / (np.mean(current_v_cpu**2)**2 + 1e-12)
+                
+                # [IMPROVED EVALUATION] Try both simple sign and jittered threshold
+                # Candidate 1: Simple Sign
+                spins1 = np.sign(current_v_cpu)
+                spins1[spins1 == 0] = 1
+                cut1 = SpectralObjectives.get_cut_value(self.W_scipy, spins1)
+                
+                # Candidate 2: Threshold Jitter
+                v_std = np.std(current_v_cpu)
+                t_eval = np.random.normal(0, v_std * 0.1)
+                spins2 = np.sign(current_v_cpu - t_eval)
+                spins2[spins2 == 0] = 1
+                cut2 = SpectralObjectives.get_cut_value(self.W_scipy, spins2)
+                
+                # Pick Best
+                current_max_cut = max(cut1, cut2)
+                if cut1 >= cut2:
+                    current_best_spins = spins1
+                else:
+                    current_best_spins = spins2
 
-                cut = SpectralObjectives.get_cut_value(self.W_scipy, spins)
-
-                if cut > best_cut:
-                    best_cut = cut
-                    best_spins = spins.copy()
+                if current_max_cut > best_cut:
+                    best_cut = current_max_cut
+                    best_spins = current_best_spins.copy()
 
                 if i % 20 == 0:
-                    logger.info(f"Iter {i:03d}: Loss {loss.item():.4f}, Cut {cut:.0f}")
+                    logger.info(f"Iter {i:03d}: Loss {loss.item():.4f}, Best Cut {best_cut:.0f}, Kurtosis {kurtosis:.2f}")
 
         logger.info(f"Gradient Descent Time: {time.time()-t0:.2f}s | Best Cut: {best_cut:.0f}")
         return best_spins, best_cut, loss_history
@@ -293,11 +338,9 @@ class ImprovedSpectralSolver(nn.Module):
         best_spins = None
 
         for it in range(max_iter):
-            # Operator D^-1/2 * A * D^-1/2
             D_inv_sqrt = sp.diags(1.0 / np.sqrt(w_diag + 1e-8))
             Op = D_inv_sqrt @ self.A_scipy @ D_inv_sqrt
 
-            # Find Leading Eigenvector
             vals, vecs = eigsh(Op, k=1, which='LA', tol=1e-3)
             v = vecs[:, 0]
 
@@ -310,7 +353,6 @@ class ImprovedSpectralSolver(nn.Module):
                 best_spins = spins.copy()
                 logger.info(f"Iter {it}: New Best Cut {cut:.0f}")
 
-            # Heuristic update rule
             amplitude = np.abs(v) + 1e-6
             w_diag = 0.9 * w_diag + 0.1 * (1.0 / amplitude)
             w_diag = w_diag / np.mean(w_diag)
@@ -327,7 +369,7 @@ class ImprovedSpectralSolverWrapper:
         instance_name: str,
         dataset: str,
         random_seed: int = None,
-        variant: str = 'grad',  # 'grad', 'sdp', or 'iter'
+        variant: str = 'grad',
         lr: float = 0.05,
         steps: int = 100,
         max_iter: int = 50,
@@ -352,17 +394,10 @@ class ImprovedSpectralSolverWrapper:
             np.random.seed(random_seed)
             torch.manual_seed(random_seed)
             if torch.cuda.is_available():
-                torch.cuda.manual_seed(random_seed)
+                # [FIX 3] Use manual_seed_all for better reproducibility
+                torch.cuda.manual_seed_all(random_seed)
 
-        print(f"Initialized {self.solver_name} solver. Results will be saved under '{self.solver_name}'.")
-        print("Parameters:")
-        print(f"  instance_name: {self.instance_name}")
-        print(f"  dataset: {self.dataset}")
-        print(f"  variant: {self.variant}")
-        print(f"  lr: {self.lr}")
-        print(f"  steps: {self.steps}")
-        print(f"  gpu: {self.gpu}")
-        print("-" * 50)
+        print(f"Initialized {self.solver_name} solver.")
 
     def solve(self, J: np.ndarray):
         """Solve the MaxCut problem using Improved Spectral Solver"""
@@ -371,14 +406,13 @@ class ImprovedSpectralSolverWrapper:
         if not sp.issparse(J):
             J = sp.csr_matrix(J)
 
-        # Pass J (or adjacency) directly to Solver
         device = 'cuda' if torch.cuda.is_available() and self.gpu else 'cpu'
 
         try:
             solver = ImprovedSpectralSolver(J, device=device)
         except ValueError as e:
             logger.error(f"Solver Initialization Failed: {e}")
-            return # Exit safely
+            return 
 
         logger.info(f"[*] Running Improved Spectral Solver with method: {self.variant}")
 
@@ -392,12 +426,10 @@ class ImprovedSpectralSolverWrapper:
             spins, cut, _ = solver.solve_gradient_descent(lr=self.lr, steps=self.steps)
 
         time_taken = time.time() - start_time
-
-        energy = -cut # Energy is negative Cut for MaxCut
+        energy = -cut 
         self._store_results(energy=energy, spins=spins, time_taken=time_taken, cut=cut)
 
     def _store_results(self, energy: float, spins: np.ndarray, time_taken: float, cut: float):
-        """Store results to CSV file using pandas"""
         import pandas as pd
         from pathlib import Path
         from datetime import datetime
@@ -419,28 +451,24 @@ class ImprovedSpectralSolverWrapper:
             'variant': self.variant,
             'lr': self.lr,
             'steps': self.steps,
-            'max_iter': self.max_iter,
-            'n_rounding': self.n_rounding,
+            'max_iter': self.max_iter,      # [LOG]
+            'n_rounding': self.n_rounding,  # [LOG]
             'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         }
 
-        # Check existing and append/update
         if csv_file.exists():
             df = pd.read_csv(csv_file)
         else:
             df = pd.DataFrame()
 
         new_row = pd.DataFrame([result_data])
-
         if not df.empty:
-            # Simple deduplication based on seed/solver
             duplicate_mask = (
                 (df['instance_name'] == result_data['instance_name']) &
                 (df['dataset'] == result_data['dataset']) &
                 (df['seed'] == result_data['seed']) &
                 (df['solver_name'] == result_data['solver_name'])
             )
-
             if duplicate_mask.any():
                 df.loc[duplicate_mask, list(result_data.keys())] = list(result_data.values())
             else:
@@ -449,9 +477,4 @@ class ImprovedSpectralSolverWrapper:
             df = new_row
 
         df.to_csv(csv_file, index=False, encoding='utf-8')
-
-        logger.info(f"Results saved to: {csv_file}")
-        logger.info(f"Energy: {energy:.6f}")
-        logger.info(f"Cut: {cut:.0f}")
-        logger.info(f"Time: {time_taken:.4f}s")
-        logger.info("-" * 40)
+        logger.info(f"Results saved to: {csv_file} | Cut: {cut:.0f} | Time: {time_taken:.2f}s")
