@@ -38,11 +38,17 @@ class ImprovedSpectralSolver(nn.Module):
             if diff.nnz > 0:
                 logger.info("Graph is not symmetric. Symmetrizing (A = A + A.T)...")
                 tri_u = sp.triu(adjacency_matrix, k=1)
-                self.adj_scipy = tri_u + tri_u.T
+                adj_sym = tri_u + tri_u.T
             else:
-                self.adj_scipy = adjacency_matrix
+                adj_sym = adjacency_matrix
 
-            coo = self.adj_scipy.tocoo()
+            # W: Positive adjacency for MaxCut (used for cut calculation)
+            self.W_scipy = adj_sym
+            # A: Negative matrix for spectral operations (to get alternating sign eigenvector)
+            self.A_scipy = -adj_sym
+
+            # PyTorch tensor uses A (negative) for spectral operations
+            coo = self.A_scipy.tocoo()
             indices = np.vstack((coo.row, coo.col))
             values = coo.data
 
@@ -52,8 +58,10 @@ class ImprovedSpectralSolver(nn.Module):
 
             self.adj_torch = torch.sparse_coo_tensor(i, v, torch.Size(shape), device=self.device)
         else:
-            self.adj_scipy = sp.csr_matrix(adjacency_matrix)
-            self.adj_torch = torch.FloatTensor(adjacency_matrix).to(device)
+            adj_sym = np.array(adjacency_matrix)
+            self.W_scipy = sp.csr_matrix(adj_sym)
+            self.A_scipy = sp.csr_matrix(-adj_sym)
+            self.adj_torch = torch.FloatTensor(-adj_sym).to(device)
 
         self.log_w = nn.Parameter(torch.zeros(self.n, device=self.device))
 
@@ -88,12 +96,14 @@ class ImprovedSpectralSolver(nn.Module):
         logger.info("--- Phase A: Running SDP Proxy (Signed Laplacian) ---")
         t0 = time.time()
 
-        abs_degrees = np.abs(self.adj_scipy).sum(axis=1).A1
+        # Use W (positive) for degree calculation
+        abs_degrees = np.abs(self.W_scipy).sum(axis=1).A1
         d_inv_sqrt = 1.0 / np.sqrt(abs_degrees + 1e-8)
 
         def matvec(v):
             v = v * d_inv_sqrt
-            v = self.adj_scipy.dot(v)
+            # Use A (negative) for spectral operation to get alternating sign eigenvector
+            v = self.A_scipy.dot(v)
             v = v * d_inv_sqrt
             return v
 
@@ -110,7 +120,8 @@ class ImprovedSpectralSolver(nn.Module):
             spins = np.sign(v_sdp + random_noise)
             spins[spins == 0] = 1
 
-            cut = SpectralObjectives.get_cut_value(self.adj_scipy, spins)
+            # Use W (positive) for cut calculation
+            cut = SpectralObjectives.get_cut_value(self.W_scipy, spins)
             if cut > best_cut:
                 best_cut = cut
                 best_spins = spins.copy()
@@ -155,7 +166,8 @@ class ImprovedSpectralSolver(nn.Module):
                 current_v_cpu = v_approx.detach().cpu().numpy().flatten()
                 spins = np.sign(current_v_cpu)
                 spins[spins == 0] = 1
-                cut = SpectralObjectives.get_cut_value(self.adj_scipy, spins)
+                # Use W (positive) for cut calculation
+                cut = SpectralObjectives.get_cut_value(self.W_scipy, spins)
 
                 if cut > best_cut:
                     best_cut = cut
@@ -176,14 +188,16 @@ class ImprovedSpectralSolver(nn.Module):
 
         for it in range(max_iter):
             D_inv_sqrt = sp.diags(1.0 / np.sqrt(W + 1e-8))
-            Op = D_inv_sqrt @ self.adj_scipy @ D_inv_sqrt
+            # Use A (negative) for spectral operation to get alternating sign eigenvector
+            Op = D_inv_sqrt @ self.A_scipy @ D_inv_sqrt
 
             vals, vecs = eigsh(Op, k=1, which='LA', tol=1e-3)
             v = vecs[:, 0]
 
             spins = np.sign(v)
             spins[spins == 0] = 1
-            cut = SpectralObjectives.get_cut_value(self.adj_scipy, spins)
+            # Use W (positive) for cut calculation
+            cut = SpectralObjectives.get_cut_value(self.W_scipy, spins)
 
             if cut > best_cut:
                 best_cut = cut
