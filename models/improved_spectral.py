@@ -162,12 +162,20 @@ class ImprovedSpectralSolver(nn.Module):
         out = z * d_inv_sqrt
         return out
 
-    def _warm_start_power_iteration(self, w_vec: torch.Tensor, steps: int = 5) -> torch.Tensor:
+    #def _warm_start_power_iteration(self, w_vec: torch.Tensor, steps: int = 5) -> torch.Tensor:
+     #   v = self.cached_eigenvector.detach().clone()
+      #  for _ in range(steps):
+       #     v = self._spectral_operator_mult(v, w_vec)
+        #    v = v / (torch.norm(v) + 1e-8)
+        #return v
+    def _warm_start_power_iteration(self, w_vec: torch.Tensor, steps: int = 10, shift: float = 1.0) -> torch.Tensor:
         v = self.cached_eigenvector.detach().clone()
         for _ in range(steps):
-            v = self._spectral_operator_mult(v, w_vec)
+            Nv = self._spectral_operator_mult(v, w_vec)
+            v = Nv + shift * v  # <-- FIX QUAN TRỌNG
             v = v / (torch.norm(v) + 1e-8)
         return v
+
 
     def solve_sdp_proxy(self, n_rounding: int = 100) -> Tuple[np.ndarray, float]:
         """
@@ -256,13 +264,20 @@ class ImprovedSpectralSolver(nn.Module):
             v_fixed = v_approx.detach()
             
             # Term 1: Maximize Eigenvalue (of A = -W)
-            eigenvalue_proxy = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
-            
+            #eigenvalue_proxy = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
             # Term 2: Diversity Regularization (Soft Constraint 1)
-            reg_loss = -torch.var(w_vec)
-            
+            r#eg_loss = -torch.var(w_vec)
             # Total Loss
-            loss = -eigenvalue_proxy + alpha_reg * reg_loss
+            #loss = -eigenvalue_proxy + alpha_reg * reg_loss
+
+            eigenvalue_proxy = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
+
+            trace_w = w_vec.sum()  # Tr(W) vì W = diag(w)
+            objective = eigenvalue_proxy * trace_w
+
+            reg_loss = -torch.var(w_vec)
+            loss = -objective + alpha_reg * reg_loss
+
 
             loss.backward()
             
