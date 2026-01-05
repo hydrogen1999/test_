@@ -267,7 +267,7 @@ class ImprovedSpectralSolver(nn.Module):
             # Term 1: Maximize Eigenvalue (of A = -W)
             #eigenvalue_proxy = (v_fixed.T @ self._spectral_operator_mult(v_fixed, w_vec)).squeeze()
             # Term 2: Diversity Regularization (Soft Constraint 1)
-            r#eg_loss = -torch.var(w_vec)
+            #reg_loss = -torch.var(w_vec)
             # Total Loss
             #loss = -eigenvalue_proxy + alpha_reg * reg_loss
 
