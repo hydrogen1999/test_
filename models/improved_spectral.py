@@ -257,7 +257,8 @@ class ImprovedSpectralSolver(nn.Module):
             w_vec = torch.exp(clamped_log_w)
 
             # 1. Forward Pass (Eigenvalue Approximation)
-            v_approx = self._warm_start_power_iteration(w_vec, steps=warm_start_steps)
+            #v_approx = self._warm_start_power_iteration(w_vec, steps=warm_start_steps)
+            v_approx = self._warm_start_power_iteration(w_vec, steps=warm_start_steps, shift=1.0)
             self.cached_eigenvector.data = v_approx.data
 
             # 2. Loss Calculation (Envelope Theorem)
