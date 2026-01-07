@@ -46,7 +46,7 @@ def _to_csr(A: Union[sp.spmatrix, np.ndarray]) -> sp.csr_matrix:
 
 def _symmetrize_gset(W: sp.csr_matrix) -> sp.csr_matrix:
     """
-    Robust symmetrization logic for Gset and similar datasets.
+    Symmetrization logic for Gset and similar datasets.
     """
     W = W.tocsr().copy()
     W.setdiag(0)
@@ -77,11 +77,6 @@ def _symmetrize_gset(W: sp.csr_matrix) -> sp.csr_matrix:
 
 
 class ImprovedSpectralSolver(nn.Module):
-    """
-    Implementation of IJCAI 2026 methodology with Perron-Frobenius fix & Soft Constraints.
-    - W (Adjacency) >= 0 is used for Cut Evaluation.
-    - A = -W is used for Spectral/Gradient steps.
-    """
     def __init__(
         self,
         adjacency_matrix: Union[sp.spmatrix, np.ndarray],
