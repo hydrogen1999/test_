@@ -1,17 +1,3 @@
-"""
-Differentiable Spectral Normalization (DSN) Solver
-===================================================
-This implementation follows Algorithm 1 exactly:
-- Objective: B(W) = -1/2 * λ_max(N(W)) * Tr(W)
-- Gradient: g_i = (λ/2) * [Tr(W)/w_i * u_i² - 1]  (Hellmann-Feynman)
-- Update: Projected gradient ASCENT to maximize B
-
-Key innovations:
-1. n-dimensional search space (vs 1D α parameter)
-2. Instance-adaptive learned normalization
-3. Gradient-guided exploration (vs grid sweep)
-"""
-
 import numpy as np
 import scipy.sparse as sp
 from scipy.sparse.linalg import eigsh, lobpcg, LinearOperator
