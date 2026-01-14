@@ -2,10 +2,10 @@
 #SBATCH --job-name=SpecAnn_hand_test2
 #SBATCH --partition=gpu
 #SBATCH --nodes=1
-#SBATCH --nodelist=beech
+#SBATCH --nodelist=hickory
 #SBATCH --ntasks=1
 #SBATCH --mem=128G
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:40g:1
 #SBATCH --time=2-00:00:00
 #SBATCH --output=cluster_logs/SpecAnn_hand_test2_%j.out
 #SBATCH --error=cluster_logs/SpecAnn_hand_test2_%j.err

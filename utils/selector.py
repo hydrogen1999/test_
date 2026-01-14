@@ -57,6 +57,12 @@ class SolverSelector:
 
             # Improved Spectral solver
             'improved_spectral': ('models.improved_spectral', 'ImprovedSpectralSolverWrapper'),
+
+            # DSN Solver
+            'DSN': ('models.dsn_solver', 'DSNSolverWrapper'),
+            'DSN_fast': ('models.dsn_solver', 'DSNSolverWrapper'),
+            'DSN_thorough': ('models.dsn_solver', 'DSNSolverWrapper'),
+            'DSN_large': ('models.dsn_solver', 'DSNSolverWrapper'),
         }
     
     def get_solver_class(self, solver_name: str) -> Type:

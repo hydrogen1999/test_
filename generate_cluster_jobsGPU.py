@@ -11,9 +11,11 @@ from pathlib import Path
 
 SOLVERS = [
     #'',
-    'SpecAdj',
-    'SpecSignedLap',
-    'SpecAnn',
+    # 'SpecAdj',
+    # 'SpecSignedLap',
+    # 'SpecAnn',
+    'DSN',
+    'DSN_thorough',
     # 'SpecAnn-LS',
     #'SpecAnn-cold',
     #'SpecAnn-64',
@@ -57,9 +59,9 @@ SOLVERS = [
     # 'QQA10',
 ]
 
-#DATASETS = ['hand_test2']
-#DATASETS = ['Gset']
-DATASETS = ['real_world']
+# DATASETS = ['hand_test2']
+DATASETS = ['Gset']
+# DATASETS = ['real_world']
 #DATASETS = ['barabasi_albert', 'barabasi_albert_10ins_m20']
 #DATASETS = ['barabasi_albert_10ins_m20', 'erdos_renyi_10ins_m20']
 # DATASETS = ['barabasi_albert_65K', 'erdos_renyi_10ins_65K', 'watts_strogatz_65K']
@@ -71,8 +73,8 @@ DATASETS = ['real_world']
 
 SLURM_CONFIG = {
     'partition': 'gpu',               # Use GPU partition
-    'nodelist': 'beech',
-    'gres': 'gpu:1',                  # sinfo -N -o "%N %G %T"
+    'nodelist': 'hickory',
+    'gres': 'gpu:40g:1',                  # sinfo -N -o "%N %G %T"
     'time': '2-00:00:00',
     'nodes': 1,                       # Only 1 node
     'ntasks': 1,                      # Single task

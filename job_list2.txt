@@ -1,3 +1,2 @@
-SpecAnn_real_world.sh
-SpecAdj_real_world.sh
-SpecSignedLap_real_world.sh
+DSN_Gset.sh
+DSN_thorough_Gset.sh

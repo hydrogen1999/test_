@@ -1,6 +1,9 @@
 datasets/barabasi_albert*
 datasets/erdos_renyi*
 datasets/watts_strogatz*
+cluster_jobs
+cluster_logs
+results
 
 
 # Byte-compiled / optimized / DLL files
