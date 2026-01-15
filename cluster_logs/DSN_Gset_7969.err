@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/nguyencongt/test_/main.py", line 6, in <module>
+    from utils.utils import parse_arguments, load_config, merge_args_with_config
+  File "/home/nguyencongt/test_/utils/utils.py", line 5, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'

@@ -1,0 +1,5 @@
+instance_name,dataset,seed,solver_name,energy,cut,bound,time,eta,T,init,lr_decay,patience,grad_clip,n_rounding,epsilon,gpu,timestamp
+G67.txt,Gset,42,DSN_thorough,-5362.0,5362.0,-16280.762354993729,34.18151521682739,0.003,500,degree,0.999,30,0.5,100,0.01,True,2026-01-14 20:22:48
+G67.txt,Gset,43,DSN_thorough,-5364.0,5364.0,-16282.649442095892,34.19570565223694,0.003,500,degree,0.999,30,0.5,100,0.01,True,2026-01-14 20:23:22
+G67.txt,Gset,44,DSN_thorough,-5372.0,5372.0,-16358.394289766438,34.10697031021118,0.003,500,degree,0.999,30,0.5,100,0.01,True,2026-01-14 20:23:56
+G67.txt,Gset,45,DSN_thorough,-5340.0,5340.0,-16284.313600076246,34.331846475601196,0.003,500,degree,0.999,30,0.5,100,0.01,True,2026-01-14 20:24:31

@@ -491,7 +491,7 @@ class DSNSolverGPU:
         N_op = NOperator(self.J_gpu, w_inv_sqrt)
         v0 = self._cached_eigvec if self._cached_eigvec is not None else None
         
-        eigenvalues, eigenvectors, _ = self.cpx_splinalg.eigsh(
+        eigenvalues, eigenvectors = self.cpx_splinalg.eigsh(
             N_op, k=1, which='LA', tol=tol, maxiter=maxiter, v0=v0
         )
         

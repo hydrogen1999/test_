@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/nguyencongt/test_/main.py", line 7, in <module>
+    from utils.core import run_solver
+  File "/home/nguyencongt/test_/utils/core.py", line 5, in <module>
+    from .data_loader import DataLoader
+  File "/home/nguyencongt/test_/utils/data_loader.py", line 7, in <module>
+    from scipy.sparse import coo_matrix, csr_matrix
+ModuleNotFoundError: No module named 'scipy'
